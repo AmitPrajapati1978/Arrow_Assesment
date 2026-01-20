@@ -1,0 +1,3002 @@
+[
+  {
+    "serial_number": "DSX87766",
+    "description": "J.C. BAMFORD D6T - NEEDS UNDERCARRIAGE WORK. - 2WD - 2743 HOURS",
+    "category": "Dozers - Crawler - Medium",
+    "make": "JCB",
+    "model": "D6T",
+    "extracted_features": {
+      "cabin": "Unknown",
+      "drive": "Wheels",
+      "hours": 2743
+    }
+  },
+  {
+    "serial_number": "KFC16572",
+    "description": "2016 BOBCAT 259D - JOBSITE READY. - GP BUCKET - OPEN STATION - ENCLOSED CAB - 294 HOURS",
+    "category": "Skid Steer Loaders - Track",
+    "make": "Bobcat",
+    "model": "259D",
+    "extracted_features": {
+      "cabin": "EROPS",
+      "drive": "Unknown",
+      "hours": 294
+    }
+  },
+  {
+    "serial_number": "AWH92122",
+    "description": "2022 CATERPILLAR INC. 906M - RUNS AND DRIVES GOOD. - STANDARD FLOW - 4X4 - MANUAL THUMB - 6883 HOURS",
+    "category": "Wheel Loaders - Large",
+    "make": "Caterpillar",
+    "model": "906M",
+    "extracted_features": {
+      "cabin": "Unknown",
+      "drive": "4WD",
+      "hours": 6883
+    }
+  },
+  {
+    "serial_number": "KMK76627",
+    "description": "2023 J. DEERE 310SL - JOBSITE READY. - 4X4 - ENCLOSED CAB - MANUAL THUMB - 3135 HOURS",
+    "category": "Backhoe Loaders",
+    "make": "John Deere",
+    "model": "310SL",
+    "extracted_features": {
+      "cabin": "EROPS",
+      "drive": "4WD",
+      "hours": 3135
+    }
+  },
+  {
+    "serial_number": "ITE11805",
+    "description": "KUBOTA TRACTOR CORP 938M - NICE UNIT, READY TO WORK. - BUCKET - MANUAL THUMB - AWD - 3708 HRS",
+    "category": "Wheel Loaders - Large",
+    "make": "Kubota",
+    "model": "938M",
+    "extracted_features": {
+      "cabin": "Unknown",
+      "drive": "AWD",
+      "hours": 3708
+    }
+  },
+  {
+    "serial_number": "AUT79341",
+    "description": "VOLVO CE T770 - CLEAN CAB, COLD AC. - QUICK COUPLER - BUCKET - AUX HYDRAULICS - CAB WITH A/C AND HEAT - METER READS: 3409",
+    "category": "Skid Steer Loaders - Track",
+    "make": "Volvo",
+    "model": "T770",
+    "extracted_features": {
+      "cabin": "Unknown",
+      "drive": "Unknown",
+      "hours": 3409
+    }
+  },
+  {
+    "serial_number": "HWV52654",
+    "description": "2019 KUBOTA TRACTOR CORP 938M - NEEDS UNDERCARRIAGE WORK. - BUCKET - 1320 HOURS",
+    "category": "Wheel Loaders - Large",
+    "make": "Kubota",
+    "model": "938M",
+    "extracted_features": {
+      "cabin": "Unknown",
+      "drive": "Unknown",
+      "hours": 1320
+    }
+  },
+  {
+    "serial_number": "JOI98129",
+    "description": "VOLVO CE 320D - RUNS AND DRIVES GOOD. - MANUAL THUMB - 3430 HOURS",
+    "category": "Excavators - Mini (< 12,000 lbs)",
+    "make": "Volvo",
+    "model": "320D",
+    "extracted_features": {
+      "cabin": "Unknown",
+      "drive": "Unknown",
+      "hours": 3430
+    }
+  },
+  {
+    "serial_number": "RFK05215",
+    "description": "2011 DEERE 310SL - NICE UNIT, READY TO WORK. - OROPS - ENCLOSED CAB - BUCKET - 3579 HRS",
+    "category": "Backhoe Loaders",
+    "make": "John Deere",
+    "model": "310SL",
+    "extracted_features": {
+      "cabin": "EROPS",
+      "drive": "Unknown",
+      "hours": 3579
+    }
+  },
+  {
+    "serial_number": "IUJ45658",
+    "description": "2011 JOHN DEERE 333G - NICE UNIT, READY TO WORK. - MANUAL THUMB - 5170 HOURS",
+    "category": "Skid Steer Loaders - Track",
+    "make": "John Deere",
+    "model": "333G",
+    "extracted_features": {
+      "cabin": "Unknown",
+      "drive": "Unknown",
+      "hours": 5170
+    }
+  },
+  {
+    "serial_number": "TKM77730",
+    "description": "J. DEERE SVL75 - NICE UNIT, READY TO WORK. - STANDARD FLOW - 4X4 - HRS: 5433",
+    "category": "Skid Steer Loaders - Track",
+    "make": "John Deere",
+    "model": "SVL75",
+    "extracted_features": {
+      "cabin": "Unknown",
+      "drive": "4WD",
+      "hours": 5433
+    }
+  },
+  {
+    "serial_number": "WDV09641",
+    "description": "KOMATSU AMERICA 624L - NICE UNIT, READY TO WORK. - CAB WITH A/C AND HEAT - BUCKET - 4X4 - QUICK COUPLER - 4119 HRS",
+    "category": "Wheel Loaders - Mid-Size",
+    "make": "Komatsu",
+    "model": "624L",
+    "extracted_features": {
+      "cabin": "Unknown",
+      "drive": "4WD",
+      "hours": 4119
+    }
+  },
+  {
+    "serial_number": "HKE21642",
+    "description": "2023 CATERPILLAR 308 - NICE UNIT, READY TO WORK. - ENCLOSED CAB - 4WD - 6441 HOURS",
+    "category": "Excavators - Midi (12k - 20k lbs)",
+    "make": "Caterpillar",
+    "model": "308",
+    "extracted_features": {
+      "cabin": "EROPS",
+      "drive": "4WD",
+      "hours": 6441
+    }
+  },
+  {
+    "serial_number": "ENT07429",
+    "description": "JCB CONSTRUCTION 950K - EX-RENTAL FLEET. - 2WD - ENCLOSED CAB - OROPS - 5965 HRS",
+    "category": "Wheel Loaders - Compact",
+    "make": "JCB",
+    "model": "950K",
+    "extracted_features": {
+      "cabin": "EROPS",
+      "drive": "Wheels",
+      "hours": 5965
+    }
+  },
+  {
+    "serial_number": "RNV56293",
+    "description": "KUBOTA 950K - CLEAN CAB, COLD AC. - MANUAL THUMB - OPEN STATION - 5618 HOURS",
+    "category": "Wheel Loaders - Mid-Size",
+    "make": "Kubota",
+    "model": "950K",
+    "extracted_features": {
+      "cabin": "OROPS",
+      "drive": "Unknown",
+      "hours": 5618
+    }
+  },
+  {
+    "serial_number": "QVO52909",
+    "description": "2011 KUBOTA TRACTOR CORP 450K - WELL MAINTAINED EX-MUNICIPAL UNIT. - ENCLOSED CAB - HYDRAULIC THUMB - CAB WITH A/C AND HEAT - HRS: 1568",
+    "category": "Dozers - Crawler - Medium",
+    "make": "Kubota",
+    "model": "450K",
+    "extracted_features": {
+      "cabin": "EROPS",
+      "drive": "Unknown",
+      "hours": 1568
+    }
+  },
+  {
+    "serial_number": "ERV42526",
+    "description": "2016 BOBCAT CO. 308 - EX-RENTAL FLEET. - HIGH FLOW - 1194 HOURS",
+    "category": "Excavators - Large (20k - 80k lbs)",
+    "make": "Bobcat",
+    "model": "308",
+    "extracted_features": {
+      "cabin": "Unknown",
+      "drive": "Unknown",
+      "hours": 1194
+    }
+  },
+  {
+    "serial_number": "VVF42202",
+    "description": "2021 HITACHI CONSTRUCTION MACHINERY 85G - CLEAN CAB, COLD AC. - 4X4 - STANDARD FLOW - HRS: 1561",
+    "category": "Excavators - Mini (< 12,000 lbs)",
+    "make": "Hitachi",
+    "model": "85G",
+    "extracted_features": {
+      "cabin": "Unknown",
+      "drive": "4WD",
+      "hours": 1561
+    }
+  },
+  {
+    "serial_number": "QUN58890",
+    "description": "HITACHI CONSTRUCTION MACHINERY T66 - NICE UNIT, READY TO WORK. - 4WD - AWD - HYDRAULIC THUMB - GP BUCKET - 3942 HRS",
+    "category": "Skid Steer Loaders - Track",
+    "make": "Hitachi",
+    "model": "T66",
+    "extracted_features": {
+      "cabin": "Unknown",
+      "drive": "AWD",
+      "hours": 3942
+    }
+  },
+  {
+    "serial_number": "TVD70387",
+    "description": "2013 JOHN DEERE WA320 - RUNS AND DRIVES GOOD. - 4X4 - HRS: 7799",
+    "category": "Wheel Loaders - Mid-Size",
+    "make": "John Deere",
+    "model": "WA320",
+    "extracted_features": {
+      "cabin": "Unknown",
+      "drive": "4WD",
+      "hours": 7799
+    }
+  },
+  {
+    "serial_number": "ECH73476",
+    "description": "2014 BOBCAT 305E2 - ONE OWNER. - BUCKET - HRS: 4987",
+    "category": "Excavators - Mini (< 12,000 lbs)",
+    "make": "Bobcat",
+    "model": "305E2",
+    "extracted_features": {
+      "cabin": "Unknown",
+      "drive": "Unknown",
+      "hours": 4987
+    }
+  },
+  {
+    "serial_number": "XRZ48797",
+    "description": "2020 BOBCAT COMPANY D6T - EX-RENTAL FLEET. - CAB WITH A/C AND HEAT - MANUAL THUMB - AWD - STANDARD FLOW - 5991 HRS",
+    "category": "Dozers - Crawler - Small",
+    "make": "Bobcat",
+    "model": "D6T",
+    "extracted_features": {
+      "cabin": "Unknown",
+      "drive": "AWD",
+      "hours": 5991
+    }
+  },
+  {
+    "serial_number": "BLL10038",
+    "description": "2019 VOLVO CE 420F2 - ONE OWNER. - MANUAL THUMB - METER READS: 4894",
+    "category": "Wheel Loaders - Compact",
+    "make": "Volvo",
+    "model": "420F2",
+    "extracted_features": {
+      "cabin": "Unknown",
+      "drive": "Unknown",
+      "hours": 4894
+    }
+  },
+  {
+    "serial_number": "ETZ32612",
+    "description": "2015 BOBCAT CO. 906M - NEEDS UNDERCARRIAGE WORK. - 4X4 - HRS: 6504",
+    "category": "Wheel Loaders - Mid-Size",
+    "make": "Bobcat",
+    "model": "906M",
+    "extracted_features": {
+      "cabin": "Unknown",
+      "drive": "4WD",
+      "hours": 6504
+    }
+  },
+  {
+    "serial_number": "HLQ11399",
+    "description": "2015 KUBOTA TRACTOR CORP 938M - EX-RENTAL FLEET. - AUX HYDRAULICS - HRS: 7631",
+    "category": "Wheel Loaders - Mid-Size",
+    "make": "Kubota",
+    "model": "938M",
+    "extracted_features": {
+      "cabin": "Unknown",
+      "drive": "Unknown",
+      "hours": 7631
+    }
+  },
+  {
+    "serial_number": "GXE72038",
+    "description": "2015 J. DEERE 320D - EX-RENTAL FLEET. - 4X4 - CAB WITH A/C AND HEAT - METER READS: 5133",
+    "category": "Excavators - Large (20k - 80k lbs)",
+    "make": "John Deere",
+    "model": "320D",
+    "extracted_features": {
+      "cabin": "Unknown",
+      "drive": "4WD",
+      "hours": 5133
+    }
+  },
+  {
+    "serial_number": "SIR13220",
+    "description": "CAT 906M - RUNS AND DRIVES GOOD. - 4X4 - CAB WITH A/C AND HEAT - METER READS: 3737",
+    "category": "Wheel Loaders - Compact",
+    "make": "Caterpillar",
+    "model": "906M",
+    "extracted_features": {
+      "cabin": "Unknown",
+      "drive": "4WD",
+      "hours": 3737
+    }
+  },
+  {
+    "serial_number": "IPS52082",
+    "description": "2011 CAT 85G - NEEDS UNDERCARRIAGE WORK. - OROPS - QUICK COUPLER - HRS: 4955",
+    "category": "Excavators - Large (20k - 80k lbs)",
+    "make": "Caterpillar",
+    "model": "85G",
+    "extracted_features": {
+      "cabin": "OROPS",
+      "drive": "Unknown",
+      "hours": 4955
+    }
+  },
+  {
+    "serial_number": "DXD92732",
+    "description": "HITACHI CONSTRUCTION MACHINERY 410L - ONE OWNER. - HYDRAULIC THUMB - 4WD - HIGH FLOW - 2470 HRS",
+    "category": "Wheel Loaders - Compact",
+    "make": "Hitachi",
+    "model": "410L",
+    "extracted_features": {
+      "cabin": "Unknown",
+      "drive": "4WD",
+      "hours": 2470
+    }
+  },
+  {
+    "serial_number": "QHR89335",
+    "description": "2019 KUBOTA TRACTOR CORP D5 - RUNS AND DRIVES GOOD. - EROPS - GP BUCKET - QUICK COUPLER - OPEN STATION - 7927 HRS",
+    "category": "Dozers - Crawler - Small",
+    "make": "Kubota",
+    "model": "D5",
+    "extracted_features": {
+      "cabin": "EROPS",
+      "drive": "Unknown",
+      "hours": 7927
+    }
+  },
+  {
+    "serial_number": "URC06387",
+    "description": "CAT D6K - NICE UNIT, READY TO WORK. - 2WD - CAB WITH A/C AND HEAT - AWD - 4602 HRS",
+    "category": "Dozers - Crawler - Medium",
+    "make": "Caterpillar",
+    "model": "D6K",
+    "extracted_features": {
+      "cabin": "Unknown",
+      "drive": "AWD",
+      "hours": 4602
+    }
+  },
+  {
+    "serial_number": "CVZ53128",
+    "description": "HITACHI CONSTRUCTION MACHINERY 310SL - NEEDS UNDERCARRIAGE WORK. - MANUAL THUMB - OROPS - 7689 HRS",
+    "category": "Backhoe Loaders",
+    "make": "Hitachi",
+    "model": "310SL",
+    "extracted_features": {
+      "cabin": "OROPS",
+      "drive": "Unknown",
+      "hours": 7689
+    }
+  },
+  {
+    "serial_number": "LBA67999",
+    "description": "2022 KUBOTA 624L - NEEDS UNDERCARRIAGE WORK. - QUICK COUPLER - HIGH FLOW - 2WD - 4WD - 4116 HOURS",
+    "category": "Wheel Loaders - Mid-Size",
+    "make": "Kubota",
+    "model": "624L",
+    "extracted_features": {
+      "cabin": "Unknown",
+      "drive": "4WD",
+      "hours": 4116
+    }
+  },
+  {
+    "serial_number": "PXG65069",
+    "description": "JCB CONSTRUCTION 906M - NEEDS UNDERCARRIAGE WORK. - GP BUCKET - 7381 HRS",
+    "category": "Wheel Loaders - Compact",
+    "make": "JCB",
+    "model": "906M",
+    "extracted_features": {
+      "cabin": "Unknown",
+      "drive": "Unknown",
+      "hours": 7381
+    }
+  },
+  {
+    "serial_number": "SVH93652",
+    "description": "2021 DEERE D6T - JOBSITE READY. - HIGH FLOW - BUCKET - METER READS: 6968",
+    "category": "Dozers - Crawler - Small",
+    "make": "John Deere",
+    "model": "D6T",
+    "extracted_features": {
+      "cabin": "Unknown",
+      "drive": "Unknown",
+      "hours": 6968
+    }
+  },
+  {
+    "serial_number": "JZD01670",
+    "description": "2013 VOLVO 85G - RUNS AND DRIVES GOOD. - QUICK COUPLER - EROPS - AUX HYDRAULICS - 6653 HOURS",
+    "category": "Excavators - Large (20k - 80k lbs)",
+    "make": "Volvo",
+    "model": "85G",
+    "extracted_features": {
+      "cabin": "EROPS",
+      "drive": "Unknown",
+      "hours": 6653
+    }
+  },
+  {
+    "serial_number": "IEP67995",
+    "description": "2022 VOLVO CONSTRUCTION EQUIPMENT 950K - WELL MAINTAINED EX-MUNICIPAL UNIT. - 4X4 - METER READS: 1932",
+    "category": "Wheel Loaders - Large",
+    "make": "Volvo",
+    "model": "950K",
+    "extracted_features": {
+      "cabin": "Unknown",
+      "drive": "4WD",
+      "hours": 1932
+    }
+  },
+  {
+    "serial_number": "PVT32799",
+    "description": "2012 JOHN DEERE T66 - RUNS AND DRIVES GOOD. - AUX HYDRAULICS - GP BUCKET - QUICK COUPLER - METER READS: 2766",
+    "category": "Skid Steer Loaders - Track",
+    "make": "John Deere",
+    "model": "T66",
+    "extracted_features": {
+      "cabin": "Unknown",
+      "drive": "Unknown",
+      "hours": 2766
+    }
+  },
+  {
+    "serial_number": "UCH83998",
+    "description": "2020 VOLVO CE 544K - RUNS AND DRIVES GOOD. - 2WD - MANUAL THUMB - BUCKET - METER READS: 7404",
+    "category": "Wheel Loaders - Mid-Size",
+    "make": "Volvo",
+    "model": "544K",
+    "extracted_features": {
+      "cabin": "Unknown",
+      "drive": "Wheels",
+      "hours": 7404
+    }
+  },
+  {
+    "serial_number": "WOC59613",
+    "description": "2016 VOLVO CONSTRUCTION EQUIPMENT D6T - CLEAN CAB, COLD AC. - MANUAL THUMB - HIGH FLOW - HRS: 6136",
+    "category": "Dozers - Crawler - Large",
+    "make": "Volvo",
+    "model": "D6T",
+    "extracted_features": {
+      "cabin": "Unknown",
+      "drive": "Unknown",
+      "hours": 6136
+    }
+  },
+  {
+    "serial_number": "BQB91890",
+    "description": "JCB 906M - RUNS AND DRIVES GOOD. - HYDRAULIC THUMB - GP BUCKET - BUCKET - HRS: 7451",
+    "category": "Wheel Loaders - Compact",
+    "make": "JCB",
+    "model": "906M",
+    "extracted_features": {
+      "cabin": "Unknown",
+      "drive": "Unknown",
+      "hours": 7451
+    }
+  },
+  {
+    "serial_number": "JHF26258",
+    "description": "CAT 580 SUPER N - CLEAN CAB, COLD AC. - GP BUCKET - ENCLOSED CAB - 3438 HOURS",
+    "category": "Backhoe Loaders",
+    "make": "Caterpillar",
+    "model": "580 Super N",
+    "extracted_features": {
+      "cabin": "EROPS",
+      "drive": "Unknown",
+      "hours": 3438
+    }
+  },
+  {
+    "serial_number": "QLE35098",
+    "description": "JOHN DEERE S650 - WELL MAINTAINED EX-MUNICIPAL UNIT. - CAB WITH A/C AND HEAT - OPEN STATION - EROPS - GP BUCKET - HRS: 4019",
+    "category": "Skid Steer Loaders - Track",
+    "make": "John Deere",
+    "model": "S650",
+    "extracted_features": {
+      "cabin": "EROPS",
+      "drive": "Unknown",
+      "hours": 4019
+    }
+  },
+  {
+    "serial_number": "UKN66739",
+    "description": "2020 JCB CONSTRUCTION 950K - CLEAN CAB, COLD AC. - BUCKET - AWD - HYDRAULIC THUMB - MANUAL THUMB - HRS: 6552",
+    "category": "Wheel Loaders - Compact",
+    "make": "JCB",
+    "model": "950K",
+    "extracted_features": {
+      "cabin": "Unknown",
+      "drive": "AWD",
+      "hours": 6552
+    }
+  },
+  {
+    "serial_number": "SYJ39057",
+    "description": "2013 HITACHI D61PX - CLEAN CAB, COLD AC. - STANDARD FLOW - OPEN STATION - METER READS: 6368",
+    "category": "Dozers - Crawler - Small",
+    "make": "Hitachi",
+    "model": "D61PX",
+    "extracted_features": {
+      "cabin": "OROPS",
+      "drive": "Unknown",
+      "hours": 6368
+    }
+  },
+  {
+    "serial_number": "KSO24578",
+    "description": "2012 BOBCAT 580N - NEEDS UNDERCARRIAGE WORK. - OPEN STATION - 3480 HOURS",
+    "category": "Wheel Loaders - Compact",
+    "make": "Bobcat",
+    "model": "580N",
+    "extracted_features": {
+      "cabin": "OROPS",
+      "drive": "Unknown",
+      "hours": 3480
+    }
+  },
+  {
+    "serial_number": "GHZ86725",
+    "description": "2020 BOBCAT CO. 259D - CLEAN CAB, COLD AC. - CAB WITH A/C AND HEAT - ENCLOSED CAB - BUCKET - METER READS: 6114",
+    "category": "Skid Steer Loaders - Track",
+    "make": "Bobcat",
+    "model": "259D",
+    "extracted_features": {
+      "cabin": "EROPS",
+      "drive": "Unknown",
+      "hours": 6114
+    }
+  },
+  {
+    "serial_number": "FWK61080",
+    "description": "2023 BOBCAT CO. 950K - JOBSITE READY. - AUX HYDRAULICS - CAB WITH A/C AND HEAT - HIGH FLOW - HRS: 4793",
+    "category": "Wheel Loaders - Mid-Size",
+    "make": "Bobcat",
+    "model": "950K",
+    "extracted_features": {
+      "cabin": "Unknown",
+      "drive": "Unknown",
+      "hours": 4793
+    }
+  },
+  {
+    "serial_number": "QSX01571",
+    "description": "2013 KUBOTA TRACTOR CORP 333G - NEEDS UNDERCARRIAGE WORK. - OPEN STATION - QUICK COUPLER - MANUAL THUMB - HYDRAULIC THUMB - METER READS: 2734",
+    "category": "Skid Steer Loaders - Wheel",
+    "make": "Kubota",
+    "model": "333G",
+    "extracted_features": {
+      "cabin": "OROPS",
+      "drive": "Unknown",
+      "hours": 2734
+    }
+  },
+  {
+    "serial_number": "UKM62382",
+    "description": "HITACHI CONSTRUCTION MACHINERY 580N - JOBSITE READY. - CAB WITH A/C AND HEAT - 4WD - 7873 HRS",
+    "category": "Backhoe Loaders",
+    "make": "Hitachi",
+    "model": "580N",
+    "extracted_features": {
+      "cabin": "Unknown",
+      "drive": "4WD",
+      "hours": 7873
+    }
+  },
+  {
+    "serial_number": "EUD62339",
+    "description": "2014 BOBCAT 906M - NICE UNIT, READY TO WORK. - OPEN STATION - ENCLOSED CAB - GP BUCKET - MANUAL THUMB - 7419 HOURS",
+    "category": "Wheel Loaders - Compact",
+    "make": "Bobcat",
+    "model": "906M",
+    "extracted_features": {
+      "cabin": "EROPS",
+      "drive": "Unknown",
+      "hours": 7419
+    }
+  },
+  {
+    "serial_number": "URD93406",
+    "description": "VOLVO CONSTRUCTION EQUIPMENT 35G - RUNS AND DRIVES GOOD. - OPEN STATION - CAB WITH A/C AND HEAT - MANUAL THUMB - METER READS: 5426",
+    "category": "Excavators - Mini (< 12,000 lbs)",
+    "make": "Volvo",
+    "model": "35G",
+    "extracted_features": {
+      "cabin": "OROPS",
+      "drive": "Unknown",
+      "hours": 5426
+    }
+  },
+  {
+    "serial_number": "TMV81839",
+    "description": "2011 KOMATSU AMERICA 308 - CLEAN CAB, COLD AC. - 4WD - METER READS: 802",
+    "category": "Excavators - Large (20k - 80k lbs)",
+    "make": "Komatsu",
+    "model": "308",
+    "extracted_features": {
+      "cabin": "Unknown",
+      "drive": "4WD",
+      "hours": 802
+    }
+  },
+  {
+    "serial_number": "GSY36728",
+    "description": "2020 VOLVO 310SL - JOBSITE READY. - AWD - HRS: 5412",
+    "category": "Backhoe Loaders",
+    "make": "Volvo",
+    "model": "310SL",
+    "extracted_features": {
+      "cabin": "Unknown",
+      "drive": "AWD",
+      "hours": 5412
+    }
+  },
+  {
+    "serial_number": "ROX95790",
+    "description": "2021 BOBCAT CO. D6T - NICE UNIT, READY TO WORK. - BUCKET - EROPS - HRS: 6812",
+    "category": "Dozers - Crawler - Large",
+    "make": "Bobcat",
+    "model": "D6T",
+    "extracted_features": {
+      "cabin": "EROPS",
+      "drive": "Unknown",
+      "hours": 6812
+    }
+  },
+  {
+    "serial_number": "ILG37809",
+    "description": "2017 JOHN DEERE ZX350 - JOBSITE READY. - ENCLOSED CAB - OPEN STATION - HRS: 828",
+    "category": "Excavators - Mini (< 12,000 lbs)",
+    "make": "John Deere",
+    "model": "ZX350",
+    "extracted_features": {
+      "cabin": "EROPS",
+      "drive": "Unknown",
+      "hours": 828
+    }
+  },
+  {
+    "serial_number": "QIG83864",
+    "description": "BOBCAT CO. T66 - EX-RENTAL FLEET. - BUCKET - EROPS - OPEN STATION - HRS: 3591",
+    "category": "Skid Steer Loaders - Track",
+    "make": "Bobcat",
+    "model": "T66",
+    "extracted_features": {
+      "cabin": "EROPS",
+      "drive": "Unknown",
+      "hours": 3591
+    }
+  },
+  {
+    "serial_number": "UGI38924",
+    "description": "2011 JCB CONSTRUCTION 410L - JOBSITE READY. - MANUAL THUMB - HIGH FLOW - 4150 HOURS",
+    "category": "Backhoe Loaders",
+    "make": "JCB",
+    "model": "410L",
+    "extracted_features": {
+      "cabin": "Unknown",
+      "drive": "Unknown",
+      "hours": 4150
+    }
+  },
+  {
+    "serial_number": "HGM71624",
+    "description": "2023 CAT ZX350 - NICE UNIT, READY TO WORK. - STANDARD FLOW - 245 HRS",
+    "category": "Excavators - Midi (12k - 20k lbs)",
+    "make": "Caterpillar",
+    "model": "ZX350",
+    "extracted_features": {
+      "cabin": "Unknown",
+      "drive": "Unknown",
+      "hours": 245
+    }
+  },
+  {
+    "serial_number": "PTS40642",
+    "description": "2019 JOHN DEERE 450K - ONE OWNER. - QUICK COUPLER - OROPS - AWD - 7305 HOURS",
+    "category": "Dozers - Crawler - Large",
+    "make": "John Deere",
+    "model": "450K",
+    "extracted_features": {
+      "cabin": "OROPS",
+      "drive": "AWD",
+      "hours": 7305
+    }
+  },
+  {
+    "serial_number": "OGN07645",
+    "description": "2018 KOMATSU 906M - CLEAN CAB, COLD AC. - GP BUCKET - HYDRAULIC THUMB - 4X4 - 2WD - HRS: 6127",
+    "category": "Wheel Loaders - Mid-Size",
+    "make": "Komatsu",
+    "model": "906M",
+    "extracted_features": {
+      "cabin": "Unknown",
+      "drive": "4WD",
+      "hours": 6127
+    }
+  },
+  {
+    "serial_number": "MXP46698",
+    "description": "2021 HITACHI 333G - NEEDS UNDERCARRIAGE WORK. - 2WD - HRS: 593",
+    "category": "Skid Steer Loaders - Track",
+    "make": "Hitachi",
+    "model": "333G",
+    "extracted_features": {
+      "cabin": "Unknown",
+      "drive": "Wheels",
+      "hours": 593
+    }
+  },
+  {
+    "serial_number": "UQC07872",
+    "description": "VOLVO CE KX040 - NICE UNIT, READY TO WORK. - MANUAL THUMB - 6191 HOURS",
+    "category": "Excavators - Large (20k - 80k lbs)",
+    "make": "Volvo",
+    "model": "KX040",
+    "extracted_features": {
+      "cabin": "Unknown",
+      "drive": "Unknown",
+      "hours": 6191
+    }
+  },
+  {
+    "serial_number": "KSK27839",
+    "description": "HITACHI CONSTRUCTION MACHINERY 624L - NEEDS UNDERCARRIAGE WORK. - AUX HYDRAULICS - CAB WITH A/C AND HEAT - HRS: 1273",
+    "category": "Wheel Loaders - Compact",
+    "make": "Hitachi",
+    "model": "624L",
+    "extracted_features": {
+      "cabin": "Unknown",
+      "drive": "Unknown",
+      "hours": 1273
+    }
+  },
+  {
+    "serial_number": "ATF24412",
+    "description": "2017 CAT 580 SUPER N - NEEDS UNDERCARRIAGE WORK. - AUX HYDRAULICS - OROPS - CAB WITH A/C AND HEAT - 2WD - HRS: 5489",
+    "category": "Backhoe Loaders",
+    "make": "Caterpillar",
+    "model": "580 Super N",
+    "extracted_features": {
+      "cabin": "OROPS",
+      "drive": "Wheels",
+      "hours": 5489
+    }
+  },
+  {
+    "serial_number": "SMD68724",
+    "description": "BOBCAT 35G - EX-RENTAL FLEET. - AWD - 4X4 - ENCLOSED CAB - OPEN STATION - METER READS: 6570",
+    "category": "Excavators - Mini (< 12,000 lbs)",
+    "make": "Bobcat",
+    "model": "35G",
+    "extracted_features": {
+      "cabin": "EROPS",
+      "drive": "AWD",
+      "hours": 6570
+    }
+  },
+  {
+    "serial_number": "IWB80960",
+    "description": "2011 HITACHI D8T - EX-RENTAL FLEET. - 2WD - BUCKET - METER READS: 6369",
+    "category": "Dozers - Crawler - Small",
+    "make": "Hitachi",
+    "model": "D8T",
+    "extracted_features": {
+      "cabin": "Unknown",
+      "drive": "Wheels",
+      "hours": 6369
+    }
+  },
+  {
+    "serial_number": "DWB23388",
+    "description": "VOLVO D5 - NICE UNIT, READY TO WORK. - OROPS - 4X4 - MANUAL THUMB - ENCLOSED CAB - METER READS: 7727",
+    "category": "Dozers - Crawler - Small",
+    "make": "Volvo",
+    "model": "D5",
+    "extracted_features": {
+      "cabin": "EROPS",
+      "drive": "4WD",
+      "hours": 7727
+    }
+  },
+  {
+    "serial_number": "FTW44237",
+    "description": "2017 KOMATSU LTD 950K - WELL MAINTAINED EX-MUNICIPAL UNIT. - BUCKET - OROPS - 3538 HOURS",
+    "category": "Wheel Loaders - Compact",
+    "make": "Komatsu",
+    "model": "950K",
+    "extracted_features": {
+      "cabin": "OROPS",
+      "drive": "Unknown",
+      "hours": 3538
+    }
+  },
+  {
+    "serial_number": "MTI78056",
+    "description": "2017 VOLVO 35G - RUNS AND DRIVES GOOD. - STANDARD FLOW - HRS: 4409",
+    "category": "Excavators - Large (20k - 80k lbs)",
+    "make": "Volvo",
+    "model": "35G",
+    "extracted_features": {
+      "cabin": "Unknown",
+      "drive": "Unknown",
+      "hours": 4409
+    }
+  },
+  {
+    "serial_number": "BGX10499",
+    "description": "2010 VOLVO 289D - RUNS AND DRIVES GOOD. - 2WD - 4293 HRS",
+    "category": "Skid Steer Loaders - Track",
+    "make": "Volvo",
+    "model": "289D",
+    "extracted_features": {
+      "cabin": "Unknown",
+      "drive": "Wheels",
+      "hours": 4293
+    }
+  },
+  {
+    "serial_number": "ZCD73400",
+    "description": "2021 VOLVO CE 320D - ONE OWNER. - 4X4 - 4WD - 3559 HRS",
+    "category": "Excavators - Large (20k - 80k lbs)",
+    "make": "Volvo",
+    "model": "320D",
+    "extracted_features": {
+      "cabin": "Unknown",
+      "drive": "4WD",
+      "hours": 3559
+    }
+  },
+  {
+    "serial_number": "JAZ66919",
+    "description": "2011 DEERE & CO. D61PX - NEEDS UNDERCARRIAGE WORK. - 4WD - 7328 HRS",
+    "category": "Dozers - Crawler - Large",
+    "make": "John Deere",
+    "model": "D61PX",
+    "extracted_features": {
+      "cabin": "Unknown",
+      "drive": "4WD",
+      "hours": 7328
+    }
+  },
+  {
+    "serial_number": "YMY13906",
+    "description": "BOBCAT CO. 950K - NEEDS UNDERCARRIAGE WORK. - AUX HYDRAULICS - HIGH FLOW - CAB WITH A/C AND HEAT - HYDRAULIC THUMB - METER READS: 2496",
+    "category": "Wheel Loaders - Large",
+    "make": "Bobcat",
+    "model": "950K",
+    "extracted_features": {
+      "cabin": "Unknown",
+      "drive": "Unknown",
+      "hours": 2496
+    }
+  },
+  {
+    "serial_number": "HZY23888",
+    "description": "2012 HITACHI CONSTRUCTION MACHINERY 310SL - JOBSITE READY. - AUX HYDRAULICS - ENCLOSED CAB - HYDRAULIC THUMB - METER READS: 4204",
+    "category": "Wheel Loaders - Compact",
+    "make": "Hitachi",
+    "model": "310SL",
+    "extracted_features": {
+      "cabin": "EROPS",
+      "drive": "Unknown",
+      "hours": 4204
+    }
+  },
+  {
+    "serial_number": "YQH87987",
+    "description": "CAT PC210 - WELL MAINTAINED EX-MUNICIPAL UNIT. - EROPS - ENCLOSED CAB - HYDRAULIC THUMB - STANDARD FLOW - HRS: 7523",
+    "category": "Excavators - Large (20k - 80k lbs)",
+    "make": "Caterpillar",
+    "model": "PC210",
+    "extracted_features": {
+      "cabin": "EROPS",
+      "drive": "Unknown",
+      "hours": 7523
+    }
+  },
+  {
+    "serial_number": "BYJ29726",
+    "description": "2014 JOHN DEERE 650K - ONE OWNER. - EROPS - HYDRAULIC THUMB - GP BUCKET - AUX HYDRAULICS - 4473 HRS",
+    "category": "Dozers - Crawler - Large",
+    "make": "John Deere",
+    "model": "650K",
+    "extracted_features": {
+      "cabin": "EROPS",
+      "drive": "Unknown",
+      "hours": 4473
+    }
+  },
+  {
+    "serial_number": "SMZ80411",
+    "description": "2011 DEERE 906M - EX-RENTAL FLEET. - CAB WITH A/C AND HEAT - ENCLOSED CAB - 2731 HRS",
+    "category": "Wheel Loaders - Mid-Size",
+    "make": "John Deere",
+    "model": "906M",
+    "extracted_features": {
+      "cabin": "EROPS",
+      "drive": "Unknown",
+      "hours": 2731
+    }
+  },
+  {
+    "serial_number": "RVB94202",
+    "description": "CATERPILLAR INC. D6K - NEEDS UNDERCARRIAGE WORK. - AUX HYDRAULICS - QUICK COUPLER - STANDARD FLOW - 2WD - HRS: 5869",
+    "category": "Dozers - Crawler - Medium",
+    "make": "Caterpillar",
+    "model": "D6K",
+    "extracted_features": {
+      "cabin": "Unknown",
+      "drive": "Wheels",
+      "hours": 5869
+    }
+  },
+  {
+    "serial_number": "KBO94750",
+    "description": "2010 JCB T66 - RUNS AND DRIVES GOOD. - OPEN STATION - 5470 HOURS",
+    "category": "Skid Steer Loaders - Wheel",
+    "make": "JCB",
+    "model": "T66",
+    "extracted_features": {
+      "cabin": "OROPS",
+      "drive": "Unknown",
+      "hours": 5470
+    }
+  },
+  {
+    "serial_number": "ENR41288",
+    "description": "VOLVO CONSTRUCTION EQUIPMENT 450K - NEEDS UNDERCARRIAGE WORK. - 2WD - 3038 HRS",
+    "category": "Dozers - Crawler - Large",
+    "make": "Volvo",
+    "model": "450K",
+    "extracted_features": {
+      "cabin": "Unknown",
+      "drive": "Wheels",
+      "hours": 3038
+    }
+  },
+  {
+    "serial_number": "EJX95082",
+    "description": "KUBOTA 410L - ONE OWNER. - STANDARD FLOW - HIGH FLOW - QUICK COUPLER - AUX HYDRAULICS - HRS: 3511",
+    "category": "Backhoe Loaders",
+    "make": "Kubota",
+    "model": "410L",
+    "extracted_features": {
+      "cabin": "Unknown",
+      "drive": "Unknown",
+      "hours": 3511
+    }
+  },
+  {
+    "serial_number": "SRB12894",
+    "description": "CAT 950K - NEEDS UNDERCARRIAGE WORK. - AWD - BUCKET - GP BUCKET - METER READS: 6741",
+    "category": "Wheel Loaders - Mid-Size",
+    "make": "Caterpillar",
+    "model": "950K",
+    "extracted_features": {
+      "cabin": "Unknown",
+      "drive": "AWD",
+      "hours": 6741
+    }
+  },
+  {
+    "serial_number": "ZFB36583",
+    "description": "2021 JCB 580 SUPER N - CLEAN CAB, COLD AC. - MANUAL THUMB - HRS: 285",
+    "category": "Backhoe Loaders",
+    "make": "JCB",
+    "model": "580 Super N",
+    "extracted_features": {
+      "cabin": "Unknown",
+      "drive": "Unknown",
+      "hours": 285
+    }
+  },
+  {
+    "serial_number": "FHL09745",
+    "description": "2020 CAT 420F2 - ONE OWNER. - CAB WITH A/C AND HEAT - EROPS - STANDARD FLOW - HIGH FLOW - METER READS: 4869",
+    "category": "Backhoe Loaders",
+    "make": "Caterpillar",
+    "model": "420F2",
+    "extracted_features": {
+      "cabin": "EROPS",
+      "drive": "Unknown",
+      "hours": 4869
+    }
+  },
+  {
+    "serial_number": "LMV30536",
+    "description": "2022 DEERE & CO. 938M - EX-RENTAL FLEET. - MANUAL THUMB - EROPS - OROPS - METER READS: 2515",
+    "category": "Wheel Loaders - Compact",
+    "make": "John Deere",
+    "model": "938M",
+    "extracted_features": {
+      "cabin": "EROPS",
+      "drive": "Unknown",
+      "hours": 2515
+    }
+  },
+  {
+    "serial_number": "IUH65525",
+    "description": "KOMATSU AMERICA 938M - CLEAN CAB, COLD AC. - MANUAL THUMB - HIGH FLOW - AUX HYDRAULICS - 249 HOURS",
+    "category": "Wheel Loaders - Mid-Size",
+    "make": "Komatsu",
+    "model": "938M",
+    "extracted_features": {
+      "cabin": "Unknown",
+      "drive": "Unknown",
+      "hours": 249
+    }
+  },
+  {
+    "serial_number": "KSK73950",
+    "description": "DEERE & CO. D6T - EX-RENTAL FLEET. - 4X4 - QUICK COUPLER - ENCLOSED CAB - HYDRAULIC THUMB - METER READS: 936",
+    "category": "Dozers - Crawler - Medium",
+    "make": "John Deere",
+    "model": "D6T",
+    "extracted_features": {
+      "cabin": "EROPS",
+      "drive": "4WD",
+      "hours": 936
+    }
+  },
+  {
+    "serial_number": "LGN11399",
+    "description": "VOLVO CE 289D - RUNS AND DRIVES GOOD. - 4WD - BUCKET - EROPS - 5733 HRS",
+    "category": "Skid Steer Loaders - Wheel",
+    "make": "Volvo",
+    "model": "289D",
+    "extracted_features": {
+      "cabin": "EROPS",
+      "drive": "4WD",
+      "hours": 5733
+    }
+  },
+  {
+    "serial_number": "OFB47500",
+    "description": "2021 BOBCAT CO. 35G - WELL MAINTAINED EX-MUNICIPAL UNIT. - OPEN STATION - HYDRAULIC THUMB - 4030 HRS",
+    "category": "Excavators - Mini (< 12,000 lbs)",
+    "make": "Bobcat",
+    "model": "35G",
+    "extracted_features": {
+      "cabin": "OROPS",
+      "drive": "Unknown",
+      "hours": 4030
+    }
+  },
+  {
+    "serial_number": "AQC70233",
+    "description": "VOLVO CE 336FL - ONE OWNER. - HIGH FLOW - HYDRAULIC THUMB - AWD - AUX HYDRAULICS - 5165 HOURS",
+    "category": "Excavators - Mini (< 12,000 lbs)",
+    "make": "Volvo",
+    "model": "336FL",
+    "extracted_features": {
+      "cabin": "Unknown",
+      "drive": "AWD",
+      "hours": 5165
+    }
+  },
+  {
+    "serial_number": "EGT21346",
+    "description": "KUBOTA TRACTOR CORP 580N - NEEDS UNDERCARRIAGE WORK. - QUICK COUPLER - METER READS: 5003",
+    "category": "Wheel Loaders - Compact",
+    "make": "Kubota",
+    "model": "580N",
+    "extracted_features": {
+      "cabin": "Unknown",
+      "drive": "Unknown",
+      "hours": 5003
+    }
+  },
+  {
+    "serial_number": "DZU70730",
+    "description": "2014 HITACHI CONSTRUCTION MACHINERY T66 - CLEAN CAB, COLD AC. - HIGH FLOW - METER READS: 3213",
+    "category": "Skid Steer Loaders - Track",
+    "make": "Hitachi",
+    "model": "T66",
+    "extracted_features": {
+      "cabin": "Unknown",
+      "drive": "Unknown",
+      "hours": 3213
+    }
+  },
+  {
+    "serial_number": "UOB37318",
+    "description": "2016 JCB 320D - RUNS AND DRIVES GOOD. - OROPS - 637 HRS",
+    "category": "Excavators - Mini (< 12,000 lbs)",
+    "make": "JCB",
+    "model": "320D",
+    "extracted_features": {
+      "cabin": "OROPS",
+      "drive": "Unknown",
+      "hours": 637
+    }
+  },
+  {
+    "serial_number": "OCG89076",
+    "description": "2022 VOLVO 410L - WELL MAINTAINED EX-MUNICIPAL UNIT. - ENCLOSED CAB - AWD - METER READS: 4016",
+    "category": "Backhoe Loaders",
+    "make": "Volvo",
+    "model": "410L",
+    "extracted_features": {
+      "cabin": "EROPS",
+      "drive": "AWD",
+      "hours": 4016
+    }
+  },
+  {
+    "serial_number": "TEN56183",
+    "description": "2021 KOMATSU LTD T770 - NICE UNIT, READY TO WORK. - 2WD - HYDRAULIC THUMB - METER READS: 6348",
+    "category": "Skid Steer Loaders - Wheel",
+    "make": "Komatsu",
+    "model": "T770",
+    "extracted_features": {
+      "cabin": "Unknown",
+      "drive": "Wheels",
+      "hours": 6348
+    }
+  },
+  {
+    "serial_number": "UNP41650",
+    "description": "2010 KUBOTA TRACTOR CORP 410L - JOBSITE READY. - BUCKET - QUICK COUPLER - CAB WITH A/C AND HEAT - 2814 HOURS",
+    "category": "Wheel Loaders - Compact",
+    "make": "Kubota",
+    "model": "410L",
+    "extracted_features": {
+      "cabin": "Unknown",
+      "drive": "Unknown",
+      "hours": 2814
+    }
+  },
+  {
+    "serial_number": "ZDD36482",
+    "description": "2019 BOBCAT CO. 308 - WELL MAINTAINED EX-MUNICIPAL UNIT. - STANDARD FLOW - HYDRAULIC THUMB - HIGH FLOW - HRS: 3343",
+    "category": "Excavators - Midi (12k - 20k lbs)",
+    "make": "Bobcat",
+    "model": "308",
+    "extracted_features": {
+      "cabin": "Unknown",
+      "drive": "Unknown",
+      "hours": 3343
+    }
+  },
+  {
+    "serial_number": "AGW19407",
+    "description": "CATERPILLAR INC. 410L - RUNS AND DRIVES GOOD. - ENCLOSED CAB - BUCKET - 4X4 - METER READS: 1888",
+    "category": "Backhoe Loaders",
+    "make": "Caterpillar",
+    "model": "410L",
+    "extracted_features": {
+      "cabin": "EROPS",
+      "drive": "4WD",
+      "hours": 1888
+    }
+  },
+  {
+    "serial_number": "FFB93398",
+    "description": "KOMATSU AMERICA D6T - CLEAN CAB, COLD AC. - HYDRAULIC THUMB - 4WD - 2WD - 4X4 - METER READS: 2364",
+    "category": "Dozers - Crawler - Medium",
+    "make": "Komatsu",
+    "model": "D6T",
+    "extracted_features": {
+      "cabin": "Unknown",
+      "drive": "4WD",
+      "hours": 2364
+    }
+  },
+  {
+    "serial_number": "HRB02027",
+    "description": "2016 VOLVO CE 450K - EX-RENTAL FLEET. - AUX HYDRAULICS - 2WD - MANUAL THUMB - 3337 HOURS",
+    "category": "Dozers - Crawler - Small",
+    "make": "Volvo",
+    "model": "450K",
+    "extracted_features": {
+      "cabin": "Unknown",
+      "drive": "Wheels",
+      "hours": 3337
+    }
+  },
+  {
+    "serial_number": "PIJ43425",
+    "description": "CAT D5 - CLEAN CAB, COLD AC. - 4X4 - HRS: 2567",
+    "category": "Dozers - Crawler - Small",
+    "make": "Caterpillar",
+    "model": "D5",
+    "extracted_features": {
+      "cabin": "Unknown",
+      "drive": "4WD",
+      "hours": 2567
+    }
+  },
+  {
+    "serial_number": "KSW91976",
+    "description": "KOMATSU AMERICA 938M - WELL MAINTAINED EX-MUNICIPAL UNIT. - AUX HYDRAULICS - 4870 HRS",
+    "category": "Wheel Loaders - Mid-Size",
+    "make": "Komatsu",
+    "model": "938M",
+    "extracted_features": {
+      "cabin": "Unknown",
+      "drive": "Unknown",
+      "hours": 4870
+    }
+  },
+  {
+    "serial_number": "MRZ82806",
+    "description": "KOMATSU 420F2 - EX-RENTAL FLEET. - QUICK COUPLER - OROPS - 4X4 - AWD - HRS: 398",
+    "category": "Backhoe Loaders",
+    "make": "Komatsu",
+    "model": "420F2",
+    "extracted_features": {
+      "cabin": "OROPS",
+      "drive": "AWD",
+      "hours": 398
+    }
+  },
+  {
+    "serial_number": "JUM34628",
+    "description": "2021 DEERE WA320 - EX-RENTAL FLEET. - OPEN STATION - 2WD - GP BUCKET - HRS: 1629",
+    "category": "Wheel Loaders - Mid-Size",
+    "make": "John Deere",
+    "model": "WA320",
+    "extracted_features": {
+      "cabin": "OROPS",
+      "drive": "Wheels",
+      "hours": 1629
+    }
+  },
+  {
+    "serial_number": "GUM92093",
+    "description": "2020 KOMATSU 420F2 - JOBSITE READY. - ENCLOSED CAB - AWD - METER READS: 2870",
+    "category": "Backhoe Loaders",
+    "make": "Komatsu",
+    "model": "420F2",
+    "extracted_features": {
+      "cabin": "EROPS",
+      "drive": "AWD",
+      "hours": 2870
+    }
+  },
+  {
+    "serial_number": "XBX69582",
+    "description": "2013 JCB D5 - JOBSITE READY. - HIGH FLOW - QUICK COUPLER - 4WD - MANUAL THUMB - HRS: 2470",
+    "category": "Dozers - Crawler - Large",
+    "make": "JCB",
+    "model": "D5",
+    "extracted_features": {
+      "cabin": "Unknown",
+      "drive": "4WD",
+      "hours": 2470
+    }
+  },
+  {
+    "serial_number": "QYA51409",
+    "description": "2022 BOBCAT CO. KX040 - NICE UNIT, READY TO WORK. - AUX HYDRAULICS - 4WD - GP BUCKET - HRS: 3106",
+    "category": "Excavators - Mini (< 12,000 lbs)",
+    "make": "Bobcat",
+    "model": "KX040",
+    "extracted_features": {
+      "cabin": "Unknown",
+      "drive": "4WD",
+      "hours": 3106
+    }
+  },
+  {
+    "serial_number": "ESI75108",
+    "description": "2023 BOBCAT CO. 420F2 - CLEAN CAB, COLD AC. - AWD - AUX HYDRAULICS - 2WD - OPEN STATION - HRS: 2254",
+    "category": "Backhoe Loaders",
+    "make": "Bobcat",
+    "model": "420F2",
+    "extracted_features": {
+      "cabin": "OROPS",
+      "drive": "AWD",
+      "hours": 2254
+    }
+  },
+  {
+    "serial_number": "CMQ07108",
+    "description": "VOLVO CONSTRUCTION EQUIPMENT 410L - RUNS AND DRIVES GOOD. - QUICK COUPLER - 6177 HOURS",
+    "category": "Backhoe Loaders",
+    "make": "Volvo",
+    "model": "410L",
+    "extracted_features": {
+      "cabin": "Unknown",
+      "drive": "Unknown",
+      "hours": 6177
+    }
+  },
+  {
+    "serial_number": "FJO33570",
+    "description": "2018 KUBOTA TRACTOR CORP 950K - RUNS AND DRIVES GOOD. - BUCKET - QUICK COUPLER - AUX HYDRAULICS - AWD - METER READS: 832",
+    "category": "Wheel Loaders - Mid-Size",
+    "make": "Kubota",
+    "model": "950K",
+    "extracted_features": {
+      "cabin": "Unknown",
+      "drive": "AWD",
+      "hours": 832
+    }
+  },
+  {
+    "serial_number": "WGF40975",
+    "description": "CAT 35G - NEEDS UNDERCARRIAGE WORK. - GP BUCKET - EROPS - METER READS: 342",
+    "category": "Excavators - Large (20k - 80k lbs)",
+    "make": "Caterpillar",
+    "model": "35G",
+    "extracted_features": {
+      "cabin": "EROPS",
+      "drive": "Unknown",
+      "hours": 342
+    }
+  },
+  {
+    "serial_number": "IDQ30234",
+    "description": "2013 J. DEERE 906M - WELL MAINTAINED EX-MUNICIPAL UNIT. - OROPS - HRS: 585",
+    "category": "Wheel Loaders - Mid-Size",
+    "make": "John Deere",
+    "model": "906M",
+    "extracted_features": {
+      "cabin": "OROPS",
+      "drive": "Unknown",
+      "hours": 585
+    }
+  },
+  {
+    "serial_number": "CGJ45765",
+    "description": "2023 JCB T66 - JOBSITE READY. - BUCKET - EROPS - HYDRAULIC THUMB - METER READS: 1146",
+    "category": "Skid Steer Loaders - Track",
+    "make": "JCB",
+    "model": "T66",
+    "extracted_features": {
+      "cabin": "EROPS",
+      "drive": "Unknown",
+      "hours": 1146
+    }
+  },
+  {
+    "serial_number": "IDD13383",
+    "description": "2023 CAT 333G - NEEDS UNDERCARRIAGE WORK. - OPEN STATION - EROPS - HRS: 2564",
+    "category": "Skid Steer Loaders - Track",
+    "make": "Caterpillar",
+    "model": "333G",
+    "extracted_features": {
+      "cabin": "EROPS",
+      "drive": "Unknown",
+      "hours": 2564
+    }
+  },
+  {
+    "serial_number": "FYD56658",
+    "description": "2013 KUBOTA TRACTOR CORP 938M - CLEAN CAB, COLD AC. - 2WD - 6557 HOURS",
+    "category": "Wheel Loaders - Large",
+    "make": "Kubota",
+    "model": "938M",
+    "extracted_features": {
+      "cabin": "Unknown",
+      "drive": "Wheels",
+      "hours": 6557
+    }
+  },
+  {
+    "serial_number": "EZT89348",
+    "description": "2015 HITACHI T66 - NEEDS UNDERCARRIAGE WORK. - QUICK COUPLER - HRS: 5484",
+    "category": "Skid Steer Loaders - Track",
+    "make": "Hitachi",
+    "model": "T66",
+    "extracted_features": {
+      "cabin": "Unknown",
+      "drive": "Unknown",
+      "hours": 5484
+    }
+  },
+  {
+    "serial_number": "AWD95292",
+    "description": "2013 JCB KX040 - CLEAN CAB, COLD AC. - CAB WITH A/C AND HEAT - HIGH FLOW - MANUAL THUMB - 4X4 - METER READS: 5299",
+    "category": "Excavators - Large (20k - 80k lbs)",
+    "make": "JCB",
+    "model": "KX040",
+    "extracted_features": {
+      "cabin": "Unknown",
+      "drive": "4WD",
+      "hours": 5299
+    }
+  },
+  {
+    "serial_number": "EDL62637",
+    "description": "2011 CAT ZX350 - ONE OWNER. - QUICK COUPLER - 4132 HOURS",
+    "category": "Excavators - Large (20k - 80k lbs)",
+    "make": "Caterpillar",
+    "model": "ZX350",
+    "extracted_features": {
+      "cabin": "Unknown",
+      "drive": "Unknown",
+      "hours": 4132
+    }
+  },
+  {
+    "serial_number": "RDD23370",
+    "description": "2022 VOLVO CONSTRUCTION EQUIPMENT 450K - JOBSITE READY. - BUCKET - HYDRAULIC THUMB - HRS: 1950",
+    "category": "Dozers - Crawler - Medium",
+    "make": "Volvo",
+    "model": "450K",
+    "extracted_features": {
+      "cabin": "Unknown",
+      "drive": "Unknown",
+      "hours": 1950
+    }
+  },
+  {
+    "serial_number": "LZQ06771",
+    "description": "2016 JCB CONSTRUCTION 950K - NICE UNIT, READY TO WORK. - AWD - 5851 HOURS",
+    "category": "Wheel Loaders - Large",
+    "make": "JCB",
+    "model": "950K",
+    "extracted_features": {
+      "cabin": "Unknown",
+      "drive": "AWD",
+      "hours": 5851
+    }
+  },
+  {
+    "serial_number": "NMC71113",
+    "description": "KUBOTA 320D - EX-RENTAL FLEET. - ENCLOSED CAB - HYDRAULIC THUMB - QUICK COUPLER - METER READS: 7606",
+    "category": "Excavators - Mini (< 12,000 lbs)",
+    "make": "Kubota",
+    "model": "320D",
+    "extracted_features": {
+      "cabin": "EROPS",
+      "drive": "Unknown",
+      "hours": 7606
+    }
+  },
+  {
+    "serial_number": "ELJ37530",
+    "description": "2012 HITACHI D6T - ONE OWNER. - CAB WITH A/C AND HEAT - OPEN STATION - METER READS: 7302",
+    "category": "Dozers - Crawler - Small",
+    "make": "Hitachi",
+    "model": "D6T",
+    "extracted_features": {
+      "cabin": "OROPS",
+      "drive": "Unknown",
+      "hours": 7302
+    }
+  },
+  {
+    "serial_number": "LFW04433",
+    "description": "2015 J. DEERE WA320 - EX-RENTAL FLEET. - STANDARD FLOW - METER READS: 4732",
+    "category": "Wheel Loaders - Mid-Size",
+    "make": "John Deere",
+    "model": "WA320",
+    "extracted_features": {
+      "cabin": "Unknown",
+      "drive": "Unknown",
+      "hours": 4732
+    }
+  },
+  {
+    "serial_number": "DGY77794",
+    "description": "J.C. BAMFORD 308 - NICE UNIT, READY TO WORK. - STANDARD FLOW - BUCKET - ENCLOSED CAB - METER READS: 7248",
+    "category": "Excavators - Large (20k - 80k lbs)",
+    "make": "JCB",
+    "model": "308",
+    "extracted_features": {
+      "cabin": "EROPS",
+      "drive": "Unknown",
+      "hours": 7248
+    }
+  },
+  {
+    "serial_number": "IJW40211",
+    "description": "2022 JOHN DEERE T770 - RUNS AND DRIVES GOOD. - ENCLOSED CAB - GP BUCKET - AWD - MANUAL THUMB - 2113 HRS",
+    "category": "Skid Steer Loaders - Track",
+    "make": "John Deere",
+    "model": "T770",
+    "extracted_features": {
+      "cabin": "EROPS",
+      "drive": "AWD",
+      "hours": 2113
+    }
+  },
+  {
+    "serial_number": "EOA75455",
+    "description": "2021 JCB CONSTRUCTION 580 SUPER N - RUNS AND DRIVES GOOD. - GP BUCKET - ENCLOSED CAB - 2722 HOURS",
+    "category": "Backhoe Loaders",
+    "make": "JCB",
+    "model": "580 Super N",
+    "extracted_features": {
+      "cabin": "EROPS",
+      "drive": "Unknown",
+      "hours": 2722
+    }
+  },
+  {
+    "serial_number": "DEX83829",
+    "description": "BOBCAT D6K - RUNS AND DRIVES GOOD. - ENCLOSED CAB - AWD - 3221 HRS",
+    "category": "Dozers - Crawler - Small",
+    "make": "Bobcat",
+    "model": "D6K",
+    "extracted_features": {
+      "cabin": "EROPS",
+      "drive": "AWD",
+      "hours": 3221
+    }
+  },
+  {
+    "serial_number": "JKY06667",
+    "description": "2013 KOMATSU AMERICA T770 - CLEAN CAB, COLD AC. - ENCLOSED CAB - STANDARD FLOW - CAB WITH A/C AND HEAT - HRS: 7280",
+    "category": "Skid Steer Loaders - Track",
+    "make": "Komatsu",
+    "model": "T770",
+    "extracted_features": {
+      "cabin": "EROPS",
+      "drive": "Unknown",
+      "hours": 7280
+    }
+  },
+  {
+    "serial_number": "YOI43627",
+    "description": "2017 J. DEERE D8T - ONE OWNER. - HYDRAULIC THUMB - 6104 HOURS",
+    "category": "Dozers - Crawler - Large",
+    "make": "John Deere",
+    "model": "D8T",
+    "extracted_features": {
+      "cabin": "Unknown",
+      "drive": "Unknown",
+      "hours": 6104
+    }
+  },
+  {
+    "serial_number": "ZRD68312",
+    "description": "BOBCAT CO. 580N - NEEDS UNDERCARRIAGE WORK. - 4WD - HRS: 2896",
+    "category": "Backhoe Loaders",
+    "make": "Bobcat",
+    "model": "580N",
+    "extracted_features": {
+      "cabin": "Unknown",
+      "drive": "4WD",
+      "hours": 2896
+    }
+  },
+  {
+    "serial_number": "IGL45998",
+    "description": "2015 CAT KX040 - WELL MAINTAINED EX-MUNICIPAL UNIT. - HIGH FLOW - 2WD - 4X4 - METER READS: 5979",
+    "category": "Excavators - Large (20k - 80k lbs)",
+    "make": "Caterpillar",
+    "model": "KX040",
+    "extracted_features": {
+      "cabin": "Unknown",
+      "drive": "4WD",
+      "hours": 5979
+    }
+  },
+  {
+    "serial_number": "YSB48067",
+    "description": "KUBOTA 650K - RUNS AND DRIVES GOOD. - QUICK COUPLER - 2540 HOURS",
+    "category": "Dozers - Crawler - Large",
+    "make": "Kubota",
+    "model": "650K",
+    "extracted_features": {
+      "cabin": "Unknown",
+      "drive": "Unknown",
+      "hours": 2540
+    }
+  },
+  {
+    "serial_number": "STL78707",
+    "description": "2023 HITACHI T770 - EX-RENTAL FLEET. - 4WD - AWD - 7800 HRS",
+    "category": "Skid Steer Loaders - Track",
+    "make": "Hitachi",
+    "model": "T770",
+    "extracted_features": {
+      "cabin": "Unknown",
+      "drive": "AWD",
+      "hours": 7800
+    }
+  },
+  {
+    "serial_number": "JWY73778",
+    "description": "KUBOTA SVL75 - EX-RENTAL FLEET. - MANUAL THUMB - OROPS - 1342 HRS",
+    "category": "Skid Steer Loaders - Wheel",
+    "make": "Kubota",
+    "model": "SVL75",
+    "extracted_features": {
+      "cabin": "OROPS",
+      "drive": "Unknown",
+      "hours": 1342
+    }
+  },
+  {
+    "serial_number": "DBN53130",
+    "description": "2023 JOHN DEERE D6K - EX-RENTAL FLEET. - EROPS - 4WD - 2WD - QUICK COUPLER - HRS: 2062",
+    "category": "Dozers - Crawler - Large",
+    "make": "John Deere",
+    "model": "D6K",
+    "extracted_features": {
+      "cabin": "EROPS",
+      "drive": "4WD",
+      "hours": 2062
+    }
+  },
+  {
+    "serial_number": "QES44233",
+    "description": "2012 HITACHI CONSTRUCTION MACHINERY 35G - RUNS AND DRIVES GOOD. - BUCKET - HIGH FLOW - HRS: 4411",
+    "category": "Excavators - Large (20k - 80k lbs)",
+    "make": "Hitachi",
+    "model": "35G",
+    "extracted_features": {
+      "cabin": "Unknown",
+      "drive": "Unknown",
+      "hours": 4411
+    }
+  },
+  {
+    "serial_number": "VYB16348",
+    "description": "2016 J. DEERE D6K - EX-RENTAL FLEET. - QUICK COUPLER - STANDARD FLOW - MANUAL THUMB - HRS: 5826",
+    "category": "Dozers - Crawler - Small",
+    "make": "John Deere",
+    "model": "D6K",
+    "extracted_features": {
+      "cabin": "Unknown",
+      "drive": "Unknown",
+      "hours": 5826
+    }
+  },
+  {
+    "serial_number": "UMW40328",
+    "description": "2022 JOHN DEERE SVL75 - ONE OWNER. - 4X4 - METER READS: 7802",
+    "category": "Skid Steer Loaders - Track",
+    "make": "John Deere",
+    "model": "SVL75",
+    "extracted_features": {
+      "cabin": "Unknown",
+      "drive": "4WD",
+      "hours": 7802
+    }
+  },
+  {
+    "serial_number": "ZIU10840",
+    "description": "2012 HITACHI D61PX - ONE OWNER. - 2WD - QUICK COUPLER - HRS: 6886",
+    "category": "Dozers - Crawler - Large",
+    "make": "Hitachi",
+    "model": "D61PX",
+    "extracted_features": {
+      "cabin": "Unknown",
+      "drive": "Wheels",
+      "hours": 6886
+    }
+  },
+  {
+    "serial_number": "BVX26178",
+    "description": "2019 CATERPILLAR INC. D6T - EX-RENTAL FLEET. - OPEN STATION - HRS: 6030",
+    "category": "Dozers - Crawler - Large",
+    "make": "Caterpillar",
+    "model": "D6T",
+    "extracted_features": {
+      "cabin": "OROPS",
+      "drive": "Unknown",
+      "hours": 6030
+    }
+  },
+  {
+    "serial_number": "TTA33716",
+    "description": "2016 KUBOTA T770 - JOBSITE READY. - CAB WITH A/C AND HEAT - GP BUCKET - HYDRAULIC THUMB - MANUAL THUMB - 4550 HOURS",
+    "category": "Skid Steer Loaders - Track",
+    "make": "Kubota",
+    "model": "T770",
+    "extracted_features": {
+      "cabin": "Unknown",
+      "drive": "Unknown",
+      "hours": 4550
+    }
+  },
+  {
+    "serial_number": "UMG38500",
+    "description": "2021 CATERPILLAR INC. 289D - WELL MAINTAINED EX-MUNICIPAL UNIT. - OPEN STATION - AWD - 4WD - GP BUCKET - 5007 HRS",
+    "category": "Skid Steer Loaders - Track",
+    "make": "Caterpillar",
+    "model": "289D",
+    "extracted_features": {
+      "cabin": "OROPS",
+      "drive": "AWD",
+      "hours": 5007
+    }
+  },
+  {
+    "serial_number": "ENS27974",
+    "description": "HITACHI 320D - NEEDS UNDERCARRIAGE WORK. - 4X4 - 4WD - HRS: 7034",
+    "category": "Excavators - Midi (12k - 20k lbs)",
+    "make": "Hitachi",
+    "model": "320D",
+    "extracted_features": {
+      "cabin": "Unknown",
+      "drive": "4WD",
+      "hours": 7034
+    }
+  },
+  {
+    "serial_number": "URA64272",
+    "description": "2012 KOMATSU 580N - NICE UNIT, READY TO WORK. - MANUAL THUMB - QUICK COUPLER - AWD - 2116 HOURS",
+    "category": "Backhoe Loaders",
+    "make": "Komatsu",
+    "model": "580N",
+    "extracted_features": {
+      "cabin": "Unknown",
+      "drive": "AWD",
+      "hours": 2116
+    }
+  },
+  {
+    "serial_number": "PUI63897",
+    "description": "2021 JCB CONSTRUCTION 305E2 - WELL MAINTAINED EX-MUNICIPAL UNIT. - 4X4 - 2650 HOURS",
+    "category": "Excavators - Mini (< 12,000 lbs)",
+    "make": "JCB",
+    "model": "305E2",
+    "extracted_features": {
+      "cabin": "Unknown",
+      "drive": "4WD",
+      "hours": 2650
+    }
+  },
+  {
+    "serial_number": "QIN15630",
+    "description": "2013 CAT 950K - NICE UNIT, READY TO WORK. - 4WD - OROPS - 2WD - HRS: 1520",
+    "category": "Wheel Loaders - Large",
+    "make": "Caterpillar",
+    "model": "950K",
+    "extracted_features": {
+      "cabin": "OROPS",
+      "drive": "4WD",
+      "hours": 1520
+    }
+  },
+  {
+    "serial_number": "LVY76631",
+    "description": "2023 BOBCAT 259D - NEEDS UNDERCARRIAGE WORK. - AWD - MANUAL THUMB - HRS: 1308",
+    "category": "Skid Steer Loaders - Track",
+    "make": "Bobcat",
+    "model": "259D",
+    "extracted_features": {
+      "cabin": "Unknown",
+      "drive": "AWD",
+      "hours": 1308
+    }
+  },
+  {
+    "serial_number": "GAT01364",
+    "description": "2021 VOLVO 336FL - CLEAN CAB, COLD AC. - OROPS - QUICK COUPLER - METER READS: 6073",
+    "category": "Excavators - Large (20k - 80k lbs)",
+    "make": "Volvo",
+    "model": "336FL",
+    "extracted_features": {
+      "cabin": "OROPS",
+      "drive": "Unknown",
+      "hours": 6073
+    }
+  },
+  {
+    "serial_number": "DLJ31964",
+    "description": "2020 HITACHI CONSTRUCTION MACHINERY S650 - WELL MAINTAINED EX-MUNICIPAL UNIT. - OPEN STATION - 4X4 - 2364 HRS",
+    "category": "Skid Steer Loaders - Wheel",
+    "make": "Hitachi",
+    "model": "S650",
+    "extracted_features": {
+      "cabin": "OROPS",
+      "drive": "4WD",
+      "hours": 2364
+    }
+  },
+  {
+    "serial_number": "EZQ40649",
+    "description": "2016 CAT PC210 - CLEAN CAB, COLD AC. - ENCLOSED CAB - HRS: 7595",
+    "category": "Excavators - Large (20k - 80k lbs)",
+    "make": "Caterpillar",
+    "model": "PC210",
+    "extracted_features": {
+      "cabin": "EROPS",
+      "drive": "Unknown",
+      "hours": 7595
+    }
+  },
+  {
+    "serial_number": "MUK64754",
+    "description": "DEERE 310SL - EX-RENTAL FLEET. - ENCLOSED CAB - 2WD - 804 HOURS",
+    "category": "Backhoe Loaders",
+    "make": "John Deere",
+    "model": "310SL",
+    "extracted_features": {
+      "cabin": "EROPS",
+      "drive": "Wheels",
+      "hours": 804
+    }
+  },
+  {
+    "serial_number": "WMG39631",
+    "description": "J. DEERE 580 SUPER N - EX-RENTAL FLEET. - BUCKET - 4WD - 4X4 - ENCLOSED CAB - METER READS: 1655",
+    "category": "Wheel Loaders - Compact",
+    "make": "John Deere",
+    "model": "580 Super N",
+    "extracted_features": {
+      "cabin": "EROPS",
+      "drive": "4WD",
+      "hours": 1655
+    }
+  },
+  {
+    "serial_number": "ZME54518",
+    "description": "2018 VOLVO CE 450K - ONE OWNER. - HYDRAULIC THUMB - GP BUCKET - EROPS - 2120 HRS",
+    "category": "Dozers - Crawler - Small",
+    "make": "Volvo",
+    "model": "450K",
+    "extracted_features": {
+      "cabin": "EROPS",
+      "drive": "Unknown",
+      "hours": 2120
+    }
+  },
+  {
+    "serial_number": "DDQ50444",
+    "description": "2013 HITACHI D6K - WELL MAINTAINED EX-MUNICIPAL UNIT. - STANDARD FLOW - HRS: 724",
+    "category": "Dozers - Crawler - Large",
+    "make": "Hitachi",
+    "model": "D6K",
+    "extracted_features": {
+      "cabin": "Unknown",
+      "drive": "Unknown",
+      "hours": 724
+    }
+  },
+  {
+    "serial_number": "LLQ61472",
+    "description": "CATERPILLAR 650K - EX-RENTAL FLEET. - EROPS - HRS: 4436",
+    "category": "Dozers - Crawler - Large",
+    "make": "Caterpillar",
+    "model": "650K",
+    "extracted_features": {
+      "cabin": "EROPS",
+      "drive": "Unknown",
+      "hours": 4436
+    }
+  },
+  {
+    "serial_number": "OPN84386",
+    "description": "2014 KOMATSU LTD 544K - EX-RENTAL FLEET. - EROPS - 2WD - METER READS: 1450",
+    "category": "Wheel Loaders - Mid-Size",
+    "make": "Komatsu",
+    "model": "544K",
+    "extracted_features": {
+      "cabin": "EROPS",
+      "drive": "Wheels",
+      "hours": 1450
+    }
+  },
+  {
+    "serial_number": "DWQ13808",
+    "description": "2019 CATERPILLAR INC. 938M - JOBSITE READY. - CAB WITH A/C AND HEAT - AUX HYDRAULICS - QUICK COUPLER - HYDRAULIC THUMB - HRS: 1254",
+    "category": "Wheel Loaders - Large",
+    "make": "Caterpillar",
+    "model": "938M",
+    "extracted_features": {
+      "cabin": "Unknown",
+      "drive": "Unknown",
+      "hours": 1254
+    }
+  },
+  {
+    "serial_number": "YDR43660",
+    "description": "2016 JCB CONSTRUCTION 580N - CLEAN CAB, COLD AC. - STANDARD FLOW - ENCLOSED CAB - MANUAL THUMB - AWD - 4306 HOURS",
+    "category": "Wheel Loaders - Compact",
+    "make": "JCB",
+    "model": "580N",
+    "extracted_features": {
+      "cabin": "EROPS",
+      "drive": "AWD",
+      "hours": 4306
+    }
+  },
+  {
+    "serial_number": "BUJ18983",
+    "description": "2023 HITACHI 624L - JOBSITE READY. - STANDARD FLOW - HIGH FLOW - CAB WITH A/C AND HEAT - 1010 HOURS",
+    "category": "Wheel Loaders - Mid-Size",
+    "make": "Hitachi",
+    "model": "624L",
+    "extracted_features": {
+      "cabin": "Unknown",
+      "drive": "Unknown",
+      "hours": 1010
+    }
+  },
+  {
+    "serial_number": "DNV48938",
+    "description": "2019 DEERE 35G - NICE UNIT, READY TO WORK. - HYDRAULIC THUMB - AWD - QUICK COUPLER - STANDARD FLOW - 6754 HOURS",
+    "category": "Excavators - Mini (< 12,000 lbs)",
+    "make": "John Deere",
+    "model": "35G",
+    "extracted_features": {
+      "cabin": "Unknown",
+      "drive": "AWD",
+      "hours": 6754
+    }
+  },
+  {
+    "serial_number": "BHL82124",
+    "description": "DEERE T66 - EX-RENTAL FLEET. - CAB WITH A/C AND HEAT - METER READS: 4221",
+    "category": "Skid Steer Loaders - Track",
+    "make": "John Deere",
+    "model": "T66",
+    "extracted_features": {
+      "cabin": "Unknown",
+      "drive": "Unknown",
+      "hours": 4221
+    }
+  },
+  {
+    "serial_number": "RPQ84018",
+    "description": "2016 JCB CONSTRUCTION D6T - ONE OWNER. - AUX HYDRAULICS - GP BUCKET - OROPS - HIGH FLOW - HRS: 1950",
+    "category": "Dozers - Crawler - Large",
+    "make": "JCB",
+    "model": "D6T",
+    "extracted_features": {
+      "cabin": "OROPS",
+      "drive": "Unknown",
+      "hours": 1950
+    }
+  },
+  {
+    "serial_number": "CCK66346",
+    "description": "2024 CAT 410L - WELL MAINTAINED EX-MUNICIPAL UNIT. - BUCKET - HIGH FLOW - HRS: 1619",
+    "category": "Backhoe Loaders",
+    "make": "Caterpillar",
+    "model": "410L",
+    "extracted_features": {
+      "cabin": "Unknown",
+      "drive": "Unknown",
+      "hours": 1619
+    }
+  },
+  {
+    "serial_number": "JOL54272",
+    "description": "2023 J.C. BAMFORD 320D - ONE OWNER. - MANUAL THUMB - STANDARD FLOW - OPEN STATION - METER READS: 3708",
+    "category": "Excavators - Mini (< 12,000 lbs)",
+    "make": "JCB",
+    "model": "320D",
+    "extracted_features": {
+      "cabin": "OROPS",
+      "drive": "Unknown",
+      "hours": 3708
+    }
+  },
+  {
+    "serial_number": "KMN92451",
+    "description": "VOLVO D61PX - WELL MAINTAINED EX-MUNICIPAL UNIT. - BUCKET - MANUAL THUMB - HRS: 4598",
+    "category": "Dozers - Crawler - Large",
+    "make": "Volvo",
+    "model": "D61PX",
+    "extracted_features": {
+      "cabin": "Unknown",
+      "drive": "Unknown",
+      "hours": 4598
+    }
+  },
+  {
+    "serial_number": "DLU40198",
+    "description": "2023 VOLVO CONSTRUCTION EQUIPMENT 35G - EX-RENTAL FLEET. - QUICK COUPLER - 4340 HRS",
+    "category": "Excavators - Mini (< 12,000 lbs)",
+    "make": "Volvo",
+    "model": "35G",
+    "extracted_features": {
+      "cabin": "Unknown",
+      "drive": "Unknown",
+      "hours": 4340
+    }
+  },
+  {
+    "serial_number": "EVW47598",
+    "description": "2018 BOBCAT 938M - JOBSITE READY. - QUICK COUPLER - METER READS: 5030",
+    "category": "Wheel Loaders - Compact",
+    "make": "Bobcat",
+    "model": "938M",
+    "extracted_features": {
+      "cabin": "Unknown",
+      "drive": "Unknown",
+      "hours": 5030
+    }
+  },
+  {
+    "serial_number": "ULQ68753",
+    "description": "2018 HITACHI CONSTRUCTION MACHINERY 906M - NEEDS UNDERCARRIAGE WORK. - OPEN STATION - GP BUCKET - HIGH FLOW - 2815 HRS",
+    "category": "Wheel Loaders - Compact",
+    "make": "Hitachi",
+    "model": "906M",
+    "extracted_features": {
+      "cabin": "OROPS",
+      "drive": "Unknown",
+      "hours": 2815
+    }
+  },
+  {
+    "serial_number": "BZO84442",
+    "description": "BOBCAT CO. 650K - NICE UNIT, READY TO WORK. - OROPS - EROPS - MANUAL THUMB - BUCKET - 4983 HOURS",
+    "category": "Dozers - Crawler - Medium",
+    "make": "Bobcat",
+    "model": "650K",
+    "extracted_features": {
+      "cabin": "EROPS",
+      "drive": "Unknown",
+      "hours": 4983
+    }
+  },
+  {
+    "serial_number": "DTI59871",
+    "description": "2024 HITACHI CONSTRUCTION MACHINERY 320D - RUNS AND DRIVES GOOD. - HIGH FLOW - OPEN STATION - EROPS - HRS: 4485",
+    "category": "Excavators - Mini (< 12,000 lbs)",
+    "make": "Hitachi",
+    "model": "320D",
+    "extracted_features": {
+      "cabin": "EROPS",
+      "drive": "Unknown",
+      "hours": 4485
+    }
+  },
+  {
+    "serial_number": "VPE09231",
+    "description": "2017 JOHN DEERE 580N - RUNS AND DRIVES GOOD. - HIGH FLOW - 2WD - ENCLOSED CAB - 4548 HRS",
+    "category": "Wheel Loaders - Compact",
+    "make": "John Deere",
+    "model": "580N",
+    "extracted_features": {
+      "cabin": "EROPS",
+      "drive": "Wheels",
+      "hours": 4548
+    }
+  },
+  {
+    "serial_number": "LGC46559",
+    "description": "2011 HITACHI 259D - ONE OWNER. - ENCLOSED CAB - HYDRAULIC THUMB - AUX HYDRAULICS - MANUAL THUMB - METER READS: 915",
+    "category": "Skid Steer Loaders - Track",
+    "make": "Hitachi",
+    "model": "259D",
+    "extracted_features": {
+      "cabin": "EROPS",
+      "drive": "Unknown",
+      "hours": 915
+    }
+  },
+  {
+    "serial_number": "UDK38734",
+    "description": "JOHN DEERE S650 - CLEAN CAB, COLD AC. - 4WD - ENCLOSED CAB - METER READS: 4708",
+    "category": "Skid Steer Loaders - Track",
+    "make": "John Deere",
+    "model": "S650",
+    "extracted_features": {
+      "cabin": "EROPS",
+      "drive": "4WD",
+      "hours": 4708
+    }
+  },
+  {
+    "serial_number": "UWW88977",
+    "description": "BOBCAT D8T - WELL MAINTAINED EX-MUNICIPAL UNIT. - AUX HYDRAULICS - CAB WITH A/C AND HEAT - OROPS - METER READS: 5459",
+    "category": "Dozers - Crawler - Small",
+    "make": "Bobcat",
+    "model": "D8T",
+    "extracted_features": {
+      "cabin": "OROPS",
+      "drive": "Unknown",
+      "hours": 5459
+    }
+  },
+  {
+    "serial_number": "WTG89492",
+    "description": "2021 CATERPILLAR INC. 650K - NEEDS UNDERCARRIAGE WORK. - CAB WITH A/C AND HEAT - ENCLOSED CAB - 831 HOURS",
+    "category": "Dozers - Crawler - Small",
+    "make": "Caterpillar",
+    "model": "650K",
+    "extracted_features": {
+      "cabin": "EROPS",
+      "drive": "Unknown",
+      "hours": 831
+    }
+  },
+  {
+    "serial_number": "VMI46533",
+    "description": "2017 J.C. BAMFORD WA320 - EX-RENTAL FLEET. - AWD - AUX HYDRAULICS - HRS: 1496",
+    "category": "Wheel Loaders - Mid-Size",
+    "make": "JCB",
+    "model": "WA320",
+    "extracted_features": {
+      "cabin": "Unknown",
+      "drive": "AWD",
+      "hours": 1496
+    }
+  },
+  {
+    "serial_number": "SMS10099",
+    "description": "2022 CATERPILLAR 35G - JOBSITE READY. - ENCLOSED CAB - 2WD - MANUAL THUMB - BUCKET - HRS: 5561",
+    "category": "Excavators - Mini (< 12,000 lbs)",
+    "make": "Caterpillar",
+    "model": "35G",
+    "extracted_features": {
+      "cabin": "EROPS",
+      "drive": "Wheels",
+      "hours": 5561
+    }
+  },
+  {
+    "serial_number": "CKH35924",
+    "description": "2013 HITACHI CONSTRUCTION MACHINERY 544K - NICE UNIT, READY TO WORK. - HYDRAULIC THUMB - AWD - 4X4 - HRS: 4135",
+    "category": "Wheel Loaders - Mid-Size",
+    "make": "Hitachi",
+    "model": "544K",
+    "extracted_features": {
+      "cabin": "Unknown",
+      "drive": "AWD",
+      "hours": 4135
+    }
+  },
+  {
+    "serial_number": "HBW08489",
+    "description": "2017 HITACHI 938M - RUNS AND DRIVES GOOD. - HIGH FLOW - STANDARD FLOW - 3562 HRS",
+    "category": "Wheel Loaders - Compact",
+    "make": "Hitachi",
+    "model": "938M",
+    "extracted_features": {
+      "cabin": "Unknown",
+      "drive": "Unknown",
+      "hours": 3562
+    }
+  },
+  {
+    "serial_number": "NSI79570",
+    "description": "2017 BOBCAT 333G - NEEDS UNDERCARRIAGE WORK. - STANDARD FLOW - GP BUCKET - 2WD - METER READS: 294",
+    "category": "Skid Steer Loaders - Track",
+    "make": "Bobcat",
+    "model": "333G",
+    "extracted_features": {
+      "cabin": "Unknown",
+      "drive": "Wheels",
+      "hours": 294
+    }
+  },
+  {
+    "serial_number": "SWO19450",
+    "description": "J.C. BAMFORD 906M - CLEAN CAB, COLD AC. - AWD - EROPS - 4X4 - AUX HYDRAULICS - 521 HOURS",
+    "category": "Wheel Loaders - Mid-Size",
+    "make": "JCB",
+    "model": "906M",
+    "extracted_features": {
+      "cabin": "EROPS",
+      "drive": "AWD",
+      "hours": 521
+    }
+  },
+  {
+    "serial_number": "XAN96581",
+    "description": "KUBOTA TRACTOR CORP T770 - RUNS AND DRIVES GOOD. - ENCLOSED CAB - 4X4 - HIGH FLOW - OROPS - HRS: 7511",
+    "category": "Skid Steer Loaders - Track",
+    "make": "Kubota",
+    "model": "T770",
+    "extracted_features": {
+      "cabin": "EROPS",
+      "drive": "4WD",
+      "hours": 7511
+    }
+  },
+  {
+    "serial_number": "YNA55697",
+    "description": "DEERE & CO. 289D - NICE UNIT, READY TO WORK. - BUCKET - HYDRAULIC THUMB - QUICK COUPLER - MANUAL THUMB - METER READS: 7816",
+    "category": "Skid Steer Loaders - Track",
+    "make": "John Deere",
+    "model": "289D",
+    "extracted_features": {
+      "cabin": "Unknown",
+      "drive": "Unknown",
+      "hours": 7816
+    }
+  },
+  {
+    "serial_number": "CWO11639",
+    "description": "CAT 580 SUPER N - RUNS AND DRIVES GOOD. - AWD - BUCKET - METER READS: 6225",
+    "category": "Backhoe Loaders",
+    "make": "Caterpillar",
+    "model": "580 Super N",
+    "extracted_features": {
+      "cabin": "Unknown",
+      "drive": "AWD",
+      "hours": 6225
+    }
+  },
+  {
+    "serial_number": "EHR34843",
+    "description": "2011 J.C. BAMFORD 336FL - WELL MAINTAINED EX-MUNICIPAL UNIT. - MANUAL THUMB - STANDARD FLOW - OROPS - METER READS: 206",
+    "category": "Excavators - Large (20k - 80k lbs)",
+    "make": "JCB",
+    "model": "336FL",
+    "extracted_features": {
+      "cabin": "OROPS",
+      "drive": "Unknown",
+      "hours": 206
+    }
+  },
+  {
+    "serial_number": "TQM88799",
+    "description": "KOMATSU D8T - ONE OWNER. - HIGH FLOW - EROPS - 5477 HRS",
+    "category": "Dozers - Crawler - Large",
+    "make": "Komatsu",
+    "model": "D8T",
+    "extracted_features": {
+      "cabin": "EROPS",
+      "drive": "Unknown",
+      "hours": 5477
+    }
+  },
+  {
+    "serial_number": "ZXT32767",
+    "description": "2024 KUBOTA TRACTOR CORP 450K - JOBSITE READY. - HYDRAULIC THUMB - 2522 HRS",
+    "category": "Dozers - Crawler - Large",
+    "make": "Kubota",
+    "model": "450K",
+    "extracted_features": {
+      "cabin": "Unknown",
+      "drive": "Unknown",
+      "hours": 2522
+    }
+  },
+  {
+    "serial_number": "JRW57463",
+    "description": "2014 KUBOTA 35G - WELL MAINTAINED EX-MUNICIPAL UNIT. - EROPS - AWD - 3976 HRS",
+    "category": "Excavators - Large (20k - 80k lbs)",
+    "make": "Kubota",
+    "model": "35G",
+    "extracted_features": {
+      "cabin": "EROPS",
+      "drive": "AWD",
+      "hours": 3976
+    }
+  },
+  {
+    "serial_number": "UAC88710",
+    "description": "2020 HITACHI CONSTRUCTION MACHINERY 950K - WELL MAINTAINED EX-MUNICIPAL UNIT. - OROPS - CAB WITH A/C AND HEAT - HIGH FLOW - BUCKET - 2091 HOURS",
+    "category": "Wheel Loaders - Large",
+    "make": "Hitachi",
+    "model": "950K",
+    "extracted_features": {
+      "cabin": "OROPS",
+      "drive": "Unknown",
+      "hours": 2091
+    }
+  },
+  {
+    "serial_number": "NXK41429",
+    "description": "2012 VOLVO 420F2 - NEEDS UNDERCARRIAGE WORK. - ENCLOSED CAB - HRS: 6576",
+    "category": "Backhoe Loaders",
+    "make": "Volvo",
+    "model": "420F2",
+    "extracted_features": {
+      "cabin": "EROPS",
+      "drive": "Unknown",
+      "hours": 6576
+    }
+  },
+  {
+    "serial_number": "ZXM36062",
+    "description": "2019 VOLVO CE D5 - NICE UNIT, READY TO WORK. - GP BUCKET - ENCLOSED CAB - 2WD - AWD - METER READS: 620",
+    "category": "Dozers - Crawler - Small",
+    "make": "Volvo",
+    "model": "D5",
+    "extracted_features": {
+      "cabin": "EROPS",
+      "drive": "AWD",
+      "hours": 620
+    }
+  },
+  {
+    "serial_number": "VNF19673",
+    "description": "JCB 650K - CLEAN CAB, COLD AC. - AUX HYDRAULICS - OROPS - 1931 HRS",
+    "category": "Dozers - Crawler - Large",
+    "make": "JCB",
+    "model": "650K",
+    "extracted_features": {
+      "cabin": "OROPS",
+      "drive": "Unknown",
+      "hours": 1931
+    }
+  },
+  {
+    "serial_number": "MRK42809",
+    "description": "2023 BOBCAT CO. 85G - ONE OWNER. - HIGH FLOW - METER READS: 5316",
+    "category": "Excavators - Mini (< 12,000 lbs)",
+    "make": "Bobcat",
+    "model": "85G",
+    "extracted_features": {
+      "cabin": "Unknown",
+      "drive": "Unknown",
+      "hours": 5316
+    }
+  },
+  {
+    "serial_number": "NEI55660",
+    "description": "JCB 420F2 - ONE OWNER. - CAB WITH A/C AND HEAT - HIGH FLOW - OPEN STATION - 2WD - HRS: 1121",
+    "category": "Wheel Loaders - Compact",
+    "make": "JCB",
+    "model": "420F2",
+    "extracted_features": {
+      "cabin": "OROPS",
+      "drive": "Wheels",
+      "hours": 1121
+    }
+  },
+  {
+    "serial_number": "KER14941",
+    "description": "DEERE & CO. T66 - EX-RENTAL FLEET. - EROPS - MANUAL THUMB - AUX HYDRAULICS - 2WD - METER READS: 3304",
+    "category": "Skid Steer Loaders - Track",
+    "make": "John Deere",
+    "model": "T66",
+    "extracted_features": {
+      "cabin": "EROPS",
+      "drive": "Wheels",
+      "hours": 3304
+    }
+  },
+  {
+    "serial_number": "CYM79632",
+    "description": "2010 JCB CONSTRUCTION 450K - RUNS AND DRIVES GOOD. - STANDARD FLOW - 4X4 - QUICK COUPLER - MANUAL THUMB - METER READS: 5564",
+    "category": "Dozers - Crawler - Large",
+    "make": "JCB",
+    "model": "450K",
+    "extracted_features": {
+      "cabin": "Unknown",
+      "drive": "4WD",
+      "hours": 5564
+    }
+  },
+  {
+    "serial_number": "VYR94521",
+    "description": "2024 JOHN DEERE PC210 - ONE OWNER. - AWD - ENCLOSED CAB - QUICK COUPLER - 4X4 - 2149 HOURS",
+    "category": "Excavators - Midi (12k - 20k lbs)",
+    "make": "John Deere",
+    "model": "PC210",
+    "extracted_features": {
+      "cabin": "EROPS",
+      "drive": "AWD",
+      "hours": 2149
+    }
+  },
+  {
+    "serial_number": "NJD24061",
+    "description": "VOLVO CONSTRUCTION EQUIPMENT 310SL - NICE UNIT, READY TO WORK. - 4WD - STANDARD FLOW - HRS: 7772",
+    "category": "Backhoe Loaders",
+    "make": "Volvo",
+    "model": "310SL",
+    "extracted_features": {
+      "cabin": "Unknown",
+      "drive": "4WD",
+      "hours": 7772
+    }
+  },
+  {
+    "serial_number": "UVC36365",
+    "description": "J. DEERE 624L - JOBSITE READY. - OROPS - AWD - HYDRAULIC THUMB - HRS: 4795",
+    "category": "Wheel Loaders - Mid-Size",
+    "make": "John Deere",
+    "model": "624L",
+    "extracted_features": {
+      "cabin": "OROPS",
+      "drive": "AWD",
+      "hours": 4795
+    }
+  },
+  {
+    "serial_number": "YXW65134",
+    "description": "2013 KOMATSU LTD 624L - RUNS AND DRIVES GOOD. - AWD - QUICK COUPLER - HYDRAULIC THUMB - HRS: 4274",
+    "category": "Wheel Loaders - Large",
+    "make": "Komatsu",
+    "model": "624L",
+    "extracted_features": {
+      "cabin": "Unknown",
+      "drive": "AWD",
+      "hours": 4274
+    }
+  },
+  {
+    "serial_number": "KRW44572",
+    "description": "2020 KUBOTA TRACTOR CORP 320D - NICE UNIT, READY TO WORK. - BUCKET - ENCLOSED CAB - 7357 HRS",
+    "category": "Excavators - Large (20k - 80k lbs)",
+    "make": "Kubota",
+    "model": "320D",
+    "extracted_features": {
+      "cabin": "EROPS",
+      "drive": "Unknown",
+      "hours": 7357
+    }
+  },
+  {
+    "serial_number": "BBS84861",
+    "description": "2023 J.C. BAMFORD 333G - WELL MAINTAINED EX-MUNICIPAL UNIT. - AWD - HYDRAULIC THUMB - AUX HYDRAULICS - STANDARD FLOW - HRS: 4502",
+    "category": "Skid Steer Loaders - Track",
+    "make": "JCB",
+    "model": "333G",
+    "extracted_features": {
+      "cabin": "Unknown",
+      "drive": "AWD",
+      "hours": 4502
+    }
+  },
+  {
+    "serial_number": "OKI79370",
+    "description": "2019 JOHN DEERE 310SL - CLEAN CAB, COLD AC. - GP BUCKET - STANDARD FLOW - QUICK COUPLER - METER READS: 1196",
+    "category": "Backhoe Loaders",
+    "make": "John Deere",
+    "model": "310SL",
+    "extracted_features": {
+      "cabin": "Unknown",
+      "drive": "Unknown",
+      "hours": 1196
+    }
+  },
+  {
+    "serial_number": "JNO20435",
+    "description": "2017 JCB CONSTRUCTION T770 - NEEDS UNDERCARRIAGE WORK. - AWD - ENCLOSED CAB - METER READS: 7691",
+    "category": "Skid Steer Loaders - Track",
+    "make": "JCB",
+    "model": "T770",
+    "extracted_features": {
+      "cabin": "EROPS",
+      "drive": "AWD",
+      "hours": 7691
+    }
+  },
+  {
+    "serial_number": "HYU75982",
+    "description": "2018 HITACHI CONSTRUCTION MACHINERY D5 - NEEDS UNDERCARRIAGE WORK. - CAB WITH A/C AND HEAT - OROPS - METER READS: 5108",
+    "category": "Dozers - Crawler - Large",
+    "make": "Hitachi",
+    "model": "D5",
+    "extracted_features": {
+      "cabin": "OROPS",
+      "drive": "Unknown",
+      "hours": 5108
+    }
+  },
+  {
+    "serial_number": "LJD69327",
+    "description": "2010 KUBOTA TRACTOR CORP T770 - EX-RENTAL FLEET. - AUX HYDRAULICS - STANDARD FLOW - 4WD - METER READS: 6058",
+    "category": "Skid Steer Loaders - Track",
+    "make": "Kubota",
+    "model": "T770",
+    "extracted_features": {
+      "cabin": "Unknown",
+      "drive": "4WD",
+      "hours": 6058
+    }
+  },
+  {
+    "serial_number": "DWS98274",
+    "description": "JCB 950K - EX-RENTAL FLEET. - OPEN STATION - AWD - HIGH FLOW - 5159 HRS",
+    "category": "Wheel Loaders - Mid-Size",
+    "make": "JCB",
+    "model": "950K",
+    "extracted_features": {
+      "cabin": "OROPS",
+      "drive": "AWD",
+      "hours": 5159
+    }
+  },
+  {
+    "serial_number": "JJO55474",
+    "description": "2015 KOMATSU LTD 906M - NEEDS UNDERCARRIAGE WORK. - EROPS - BUCKET - 7191 HOURS",
+    "category": "Wheel Loaders - Large",
+    "make": "Komatsu",
+    "model": "906M",
+    "extracted_features": {
+      "cabin": "EROPS",
+      "drive": "Unknown",
+      "hours": 7191
+    }
+  },
+  {
+    "serial_number": "IYM25696",
+    "description": "CATERPILLAR 259D - JOBSITE READY. - AWD - STANDARD FLOW - BUCKET - METER READS: 2676",
+    "category": "Skid Steer Loaders - Track",
+    "make": "Caterpillar",
+    "model": "259D",
+    "extracted_features": {
+      "cabin": "Unknown",
+      "drive": "AWD",
+      "hours": 2676
+    }
+  },
+  {
+    "serial_number": "CMC05958",
+    "description": "2012 KUBOTA 259D - JOBSITE READY. - HYDRAULIC THUMB - QUICK COUPLER - HRS: 832",
+    "category": "Skid Steer Loaders - Track",
+    "make": "Kubota",
+    "model": "259D",
+    "extracted_features": {
+      "cabin": "Unknown",
+      "drive": "Unknown",
+      "hours": 832
+    }
+  },
+  {
+    "serial_number": "AIG36241",
+    "description": "2024 CAT 650K - ONE OWNER. - HIGH FLOW - 7132 HOURS",
+    "category": "Dozers - Crawler - Large",
+    "make": "Caterpillar",
+    "model": "650K",
+    "extracted_features": {
+      "cabin": "Unknown",
+      "drive": "Unknown",
+      "hours": 7132
+    }
+  },
+  {
+    "serial_number": "QSV11910",
+    "description": "2018 VOLVO CONSTRUCTION EQUIPMENT D5 - JOBSITE READY. - OROPS - ENCLOSED CAB - 2WD - EROPS - METER READS: 1097",
+    "category": "Dozers - Crawler - Large",
+    "make": "Volvo",
+    "model": "D5",
+    "extracted_features": {
+      "cabin": "EROPS",
+      "drive": "Wheels",
+      "hours": 1097
+    }
+  },
+  {
+    "serial_number": "ORE49730",
+    "description": "2024 J. DEERE 624L - NEEDS UNDERCARRIAGE WORK. - OPEN STATION - ENCLOSED CAB - METER READS: 1733",
+    "category": "Wheel Loaders - Mid-Size",
+    "make": "John Deere",
+    "model": "624L",
+    "extracted_features": {
+      "cabin": "EROPS",
+      "drive": "Unknown",
+      "hours": 1733
+    }
+  },
+  {
+    "serial_number": "YOE52337",
+    "description": "2023 KOMATSU 308 - JOBSITE READY. - GP BUCKET - BUCKET - ENCLOSED CAB - OPEN STATION - 239 HOURS",
+    "category": "Excavators - Mini (< 12,000 lbs)",
+    "make": "Komatsu",
+    "model": "308",
+    "extracted_features": {
+      "cabin": "EROPS",
+      "drive": "Unknown",
+      "hours": 239
+    }
+  },
+  {
+    "serial_number": "EFF47300",
+    "description": "2016 HITACHI CONSTRUCTION MACHINERY 289D - NICE UNIT, READY TO WORK. - HYDRAULIC THUMB - MANUAL THUMB - CAB WITH A/C AND HEAT - 4X4 - 6702 HOURS",
+    "category": "Skid Steer Loaders - Track",
+    "make": "Hitachi",
+    "model": "289D",
+    "extracted_features": {
+      "cabin": "Unknown",
+      "drive": "4WD",
+      "hours": 6702
+    }
+  },
+  {
+    "serial_number": "CPV11915",
+    "description": "2020 KOMATSU D8T - WELL MAINTAINED EX-MUNICIPAL UNIT. - STANDARD FLOW - AUX HYDRAULICS - METER READS: 261",
+    "category": "Dozers - Crawler - Medium",
+    "make": "Komatsu",
+    "model": "D8T",
+    "extracted_features": {
+      "cabin": "Unknown",
+      "drive": "Unknown",
+      "hours": 261
+    }
+  },
+  {
+    "serial_number": "BOE98449",
+    "description": "2017 JCB 650K - NICE UNIT, READY TO WORK. - 2WD - HRS: 1230",
+    "category": "Dozers - Crawler - Large",
+    "make": "JCB",
+    "model": "650K",
+    "extracted_features": {
+      "cabin": "Unknown",
+      "drive": "Wheels",
+      "hours": 1230
+    }
+  },
+  {
+    "serial_number": "TZM83911",
+    "description": "2015 VOLVO CE S650 - JOBSITE READY. - EROPS - CAB WITH A/C AND HEAT - METER READS: 7820",
+    "category": "Skid Steer Loaders - Track",
+    "make": "Volvo",
+    "model": "S650",
+    "extracted_features": {
+      "cabin": "EROPS",
+      "drive": "Unknown",
+      "hours": 7820
+    }
+  },
+  {
+    "serial_number": "IHL44204",
+    "description": "2021 VOLVO CONSTRUCTION EQUIPMENT 420F2 - CLEAN CAB, COLD AC. - HIGH FLOW - 6033 HRS",
+    "category": "Backhoe Loaders",
+    "make": "Volvo",
+    "model": "420F2",
+    "extracted_features": {
+      "cabin": "Unknown",
+      "drive": "Unknown",
+      "hours": 6033
+    }
+  },
+  {
+    "serial_number": "PMH49642",
+    "description": "2015 DEERE 305E2 - WELL MAINTAINED EX-MUNICIPAL UNIT. - OPEN STATION - HIGH FLOW - 6920 HOURS",
+    "category": "Excavators - Mini (< 12,000 lbs)",
+    "make": "John Deere",
+    "model": "305E2",
+    "extracted_features": {
+      "cabin": "OROPS",
+      "drive": "Unknown",
+      "hours": 6920
+    }
+  },
+  {
+    "serial_number": "TXG75917",
+    "description": "BOBCAT CO. 650K - RUNS AND DRIVES GOOD. - EROPS - HIGH FLOW - AUX HYDRAULICS - 3774 HOURS",
+    "category": "Dozers - Crawler - Small",
+    "make": "Bobcat",
+    "model": "650K",
+    "extracted_features": {
+      "cabin": "EROPS",
+      "drive": "Unknown",
+      "hours": 3774
+    }
+  },
+  {
+    "serial_number": "RZU56570",
+    "description": "CAT 289D - RUNS AND DRIVES GOOD. - MANUAL THUMB - 2545 HOURS",
+    "category": "Skid Steer Loaders - Track",
+    "make": "Caterpillar",
+    "model": "289D",
+    "extracted_features": {
+      "cabin": "Unknown",
+      "drive": "Unknown",
+      "hours": 2545
+    }
+  },
+  {
+    "serial_number": "PCR57366",
+    "description": "2020 CATERPILLAR INC. D8T - CLEAN CAB, COLD AC. - GP BUCKET - CAB WITH A/C AND HEAT - HRS: 4897",
+    "category": "Dozers - Crawler - Large",
+    "make": "Caterpillar",
+    "model": "D8T",
+    "extracted_features": {
+      "cabin": "Unknown",
+      "drive": "Unknown",
+      "hours": 4897
+    }
+  },
+  {
+    "serial_number": "WDS81771",
+    "description": "BOBCAT COMPANY 308 - EX-RENTAL FLEET. - AUX HYDRAULICS - METER READS: 6696",
+    "category": "Excavators - Mini (< 12,000 lbs)",
+    "make": "Bobcat",
+    "model": "308",
+    "extracted_features": {
+      "cabin": "Unknown",
+      "drive": "Unknown",
+      "hours": 6696
+    }
+  },
+  {
+    "serial_number": "BDF97441",
+    "description": "JCB CONSTRUCTION 305E2 - RUNS AND DRIVES GOOD. - OPEN STATION - STANDARD FLOW - METER READS: 945",
+    "category": "Excavators - Mini (< 12,000 lbs)",
+    "make": "JCB",
+    "model": "305E2",
+    "extracted_features": {
+      "cabin": "OROPS",
+      "drive": "Unknown",
+      "hours": 945
+    }
+  },
+  {
+    "serial_number": "ASH42995",
+    "description": "2013 KOMATSU LTD WA320 - NEEDS UNDERCARRIAGE WORK. - CAB WITH A/C AND HEAT - EROPS - METER READS: 6643",
+    "category": "Wheel Loaders - Compact",
+    "make": "Komatsu",
+    "model": "WA320",
+    "extracted_features": {
+      "cabin": "EROPS",
+      "drive": "Unknown",
+      "hours": 6643
+    }
+  },
+  {
+    "serial_number": "AVG00155",
+    "description": "VOLVO CE 305E2 - WELL MAINTAINED EX-MUNICIPAL UNIT. - HYDRAULIC THUMB - CAB WITH A/C AND HEAT - HIGH FLOW - HRS: 6681",
+    "category": "Excavators - Midi (12k - 20k lbs)",
+    "make": "Volvo",
+    "model": "305E2",
+    "extracted_features": {
+      "cabin": "Unknown",
+      "drive": "Unknown",
+      "hours": 6681
+    }
+  },
+  {
+    "serial_number": "YFB38647",
+    "description": "2010 DEERE & CO. 544K - NEEDS UNDERCARRIAGE WORK. - 4WD - OROPS - STANDARD FLOW - METER READS: 391",
+    "category": "Wheel Loaders - Mid-Size",
+    "make": "John Deere",
+    "model": "544K",
+    "extracted_features": {
+      "cabin": "OROPS",
+      "drive": "4WD",
+      "hours": 391
+    }
+  },
+  {
+    "serial_number": "AVX81760",
+    "description": "2015 BOBCAT COMPANY S650 - NICE UNIT, READY TO WORK. - 4WD - HRS: 3758",
+    "category": "Skid Steer Loaders - Track",
+    "make": "Bobcat",
+    "model": "S650",
+    "extracted_features": {
+      "cabin": "Unknown",
+      "drive": "4WD",
+      "hours": 3758
+    }
+  },
+  {
+    "serial_number": "WBV42609",
+    "description": "JCB CONSTRUCTION 624L - EX-RENTAL FLEET. - 2WD - OPEN STATION - AUX HYDRAULICS - METER READS: 1406",
+    "category": "Wheel Loaders - Mid-Size",
+    "make": "JCB",
+    "model": "624L",
+    "extracted_features": {
+      "cabin": "OROPS",
+      "drive": "Wheels",
+      "hours": 1406
+    }
+  },
+  {
+    "serial_number": "ZJH63928",
+    "description": "VOLVO CE 950K - JOBSITE READY. - OPEN STATION - BUCKET - 4WD - METER READS: 1615",
+    "category": "Wheel Loaders - Compact",
+    "make": "Volvo",
+    "model": "950K",
+    "extracted_features": {
+      "cabin": "OROPS",
+      "drive": "4WD",
+      "hours": 1615
+    }
+  },
+  {
+    "serial_number": "FTM33712",
+    "description": "2014 KUBOTA 624L - ONE OWNER. - 4WD - HRS: 4095",
+    "category": "Wheel Loaders - Compact",
+    "make": "Kubota",
+    "model": "624L",
+    "extracted_features": {
+      "cabin": "Unknown",
+      "drive": "4WD",
+      "hours": 4095
+    }
+  },
+  {
+    "serial_number": "LST02497",
+    "description": "2010 VOLVO 580N - WELL MAINTAINED EX-MUNICIPAL UNIT. - 4X4 - QUICK COUPLER - 3855 HRS",
+    "category": "Wheel Loaders - Compact",
+    "make": "Volvo",
+    "model": "580N",
+    "extracted_features": {
+      "cabin": "Unknown",
+      "drive": "4WD",
+      "hours": 3855
+    }
+  },
+  {
+    "serial_number": "BEJ92496",
+    "description": "2016 HITACHI CONSTRUCTION MACHINERY 624L - RUNS AND DRIVES GOOD. - OROPS - 7353 HOURS",
+    "category": "Wheel Loaders - Mid-Size",
+    "make": "Hitachi",
+    "model": "624L",
+    "extracted_features": {
+      "cabin": "OROPS",
+      "drive": "Unknown",
+      "hours": 7353
+    }
+  },
+  {
+    "serial_number": "DAC70355",
+    "description": "2022 CAT SVL75 - NICE UNIT, READY TO WORK. - 4X4 - GP BUCKET - EROPS - HYDRAULIC THUMB - 3703 HRS",
+    "category": "Skid Steer Loaders - Track",
+    "make": "Caterpillar",
+    "model": "SVL75",
+    "extracted_features": {
+      "cabin": "EROPS",
+      "drive": "4WD",
+      "hours": 3703
+    }
+  },
+  {
+    "serial_number": "XMF19378",
+    "description": "2011 HITACHI 580N - RUNS AND DRIVES GOOD. - BUCKET - HIGH FLOW - 2WD - 525 HOURS",
+    "category": "Wheel Loaders - Compact",
+    "make": "Hitachi",
+    "model": "580N",
+    "extracted_features": {
+      "cabin": "Unknown",
+      "drive": "Wheels",
+      "hours": 525
+    }
+  },
+  {
+    "serial_number": "NHJ87512",
+    "description": "2015 DEERE & CO. SVL75 - NEEDS UNDERCARRIAGE WORK. - STANDARD FLOW - 5977 HRS",
+    "category": "Skid Steer Loaders - Track",
+    "make": "John Deere",
+    "model": "SVL75",
+    "extracted_features": {
+      "cabin": "Unknown",
+      "drive": "Unknown",
+      "hours": 5977
+    }
+  },
+  {
+    "serial_number": "SOO80411",
+    "description": "2022 J.C. BAMFORD SVL75 - WELL MAINTAINED EX-MUNICIPAL UNIT. - 2WD - HYDRAULIC THUMB - 6582 HOURS",
+    "category": "Skid Steer Loaders - Track",
+    "make": "JCB",
+    "model": "SVL75",
+    "extracted_features": {
+      "cabin": "Unknown",
+      "drive": "Wheels",
+      "hours": 6582
+    }
+  },
+  {
+    "serial_number": "ONC43991",
+    "description": "2021 KOMATSU AMERICA WA320 - JOBSITE READY. - QUICK COUPLER - EROPS - CAB WITH A/C AND HEAT - HRS: 1987",
+    "category": "Wheel Loaders - Compact",
+    "make": "Komatsu",
+    "model": "WA320",
+    "extracted_features": {
+      "cabin": "EROPS",
+      "drive": "Unknown",
+      "hours": 1987
+    }
+  },
+  {
+    "serial_number": "OOK57327",
+    "description": "2018 CATERPILLAR 906M - NICE UNIT, READY TO WORK. - ENCLOSED CAB - METER READS: 316",
+    "category": "Wheel Loaders - Mid-Size",
+    "make": "Caterpillar",
+    "model": "906M",
+    "extracted_features": {
+      "cabin": "EROPS",
+      "drive": "Unknown",
+      "hours": 316
+    }
+  },
+  {
+    "serial_number": "NYI19937",
+    "description": "2021 BOBCAT COMPANY 310SL - CLEAN CAB, COLD AC. - HIGH FLOW - ENCLOSED CAB - 7037 HRS",
+    "category": "Backhoe Loaders",
+    "make": "Bobcat",
+    "model": "310SL",
+    "extracted_features": {
+      "cabin": "EROPS",
+      "drive": "Unknown",
+      "hours": 7037
+    }
+  },
+  {
+    "serial_number": "DKK53864",
+    "description": "2022 J.C. BAMFORD 305E2 - NICE UNIT, READY TO WORK. - STANDARD FLOW - 6040 HRS",
+    "category": "Excavators - Mini (< 12,000 lbs)",
+    "make": "JCB",
+    "model": "305E2",
+    "extracted_features": {
+      "cabin": "Unknown",
+      "drive": "Unknown",
+      "hours": 6040
+    }
+  },
+  {
+    "serial_number": "TAO08265",
+    "description": "VOLVO CE 420F2 - NEEDS UNDERCARRIAGE WORK. - EROPS - BUCKET - ENCLOSED CAB - 4318 HRS",
+    "category": "Backhoe Loaders",
+    "make": "Volvo",
+    "model": "420F2",
+    "extracted_features": {
+      "cabin": "EROPS",
+      "drive": "Unknown",
+      "hours": 4318
+    }
+  },
+  {
+    "serial_number": "IVI25446",
+    "description": "2015 CAT 580N - RUNS AND DRIVES GOOD. - AWD - 254 HOURS",
+    "category": "Backhoe Loaders",
+    "make": "Caterpillar",
+    "model": "580N",
+    "extracted_features": {
+      "cabin": "Unknown",
+      "drive": "AWD",
+      "hours": 254
+    }
+  },
+  {
+    "serial_number": "BIC21763",
+    "description": "2015 CATERPILLAR INC. D6K - WELL MAINTAINED EX-MUNICIPAL UNIT. - BUCKET - HIGH FLOW - CAB WITH A/C AND HEAT - OROPS - METER READS: 4537",
+    "category": "Dozers - Crawler - Medium",
+    "make": "Caterpillar",
+    "model": "D6K",
+    "extracted_features": {
+      "cabin": "OROPS",
+      "drive": "Unknown",
+      "hours": 4537
+    }
+  },
+  {
+    "serial_number": "XXD50818",
+    "description": "J.C. BAMFORD 544K - CLEAN CAB, COLD AC. - HYDRAULIC THUMB - EROPS - OROPS - BUCKET - HRS: 673",
+    "category": "Wheel Loaders - Large",
+    "make": "JCB",
+    "model": "544K",
+    "extracted_features": {
+      "cabin": "EROPS",
+      "drive": "Unknown",
+      "hours": 673
+    }
+  },
+  {
+    "serial_number": "VUI78089",
+    "description": "KUBOTA TRACTOR CORP D6K - EX-RENTAL FLEET. - CAB WITH A/C AND HEAT - BUCKET - HYDRAULIC THUMB - HRS: 6659",
+    "category": "Dozers - Crawler - Large",
+    "make": "Kubota",
+    "model": "D6K",
+    "extracted_features": {
+      "cabin": "Unknown",
+      "drive": "Unknown",
+      "hours": 6659
+    }
+  },
+  {
+    "serial_number": "SGU53553",
+    "description": "2024 VOLVO CONSTRUCTION EQUIPMENT 938M - NEEDS UNDERCARRIAGE WORK. - 2WD - OPEN STATION - ENCLOSED CAB - METER READS: 6371",
+    "category": "Wheel Loaders - Compact",
+    "make": "Volvo",
+    "model": "938M",
+    "extracted_features": {
+      "cabin": "EROPS",
+      "drive": "Wheels",
+      "hours": 6371
+    }
+  },
+  {
+    "serial_number": "HMP27324",
+    "description": "2014 VOLVO CONSTRUCTION EQUIPMENT 336FL - NICE UNIT, READY TO WORK. - MANUAL THUMB - BUCKET - GP BUCKET - 7761 HOURS",
+    "category": "Excavators - Midi (12k - 20k lbs)",
+    "make": "Volvo",
+    "model": "336FL",
+    "extracted_features": {
+      "cabin": "Unknown",
+      "drive": "Unknown",
+      "hours": 7761
+    }
+  }
+]

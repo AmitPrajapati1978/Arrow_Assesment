@@ -1,0 +1,62 @@
+[
+  {
+    "serial_number": "TEST-0001",
+    "make": "CAT",
+    "model": "MODEL-1",
+    "description": "Test machine from CAT"
+  },
+  {
+    "serial_number": "TEST-0002",
+    "make": "Caterpillar Inc.",
+    "model": "MODEL-2",
+    "description": "Test machine from Caterpillar Inc."
+  },
+  {
+    "serial_number": "TEST-0003",
+    "make": "J. Deere",
+    "model": "MODEL-3",
+    "description": "Test machine from J. Deere"
+  },
+  {
+    "serial_number": "TEST-0004",
+    "make": "Deere & Co",
+    "model": "MODEL-4",
+    "description": "Test machine from Deere & Co"
+  },
+  {
+    "serial_number": "TEST-0005",
+    "make": "Kubota Corp",
+    "model": "MODEL-5",
+    "description": "Test machine from Kubota Corp"
+  },
+  {
+    "serial_number": "TEST-0006",
+    "make": "Takeuchi Mfg.",
+    "model": "MODEL-6",
+    "description": "Test machine from Takeuchi Mfg."
+  },
+  {
+    "serial_number": "TEST-0007",
+    "make": "SANY Heavy Ind",
+    "model": "MODEL-7",
+    "description": "Test machine from SANY Heavy Ind"
+  },
+  {
+    "serial_number": "TEST-0008",
+    "make": "XCMG Group",
+    "model": "MODEL-8",
+    "description": "Test machine from XCMG Group"
+  },
+  {
+    "serial_number": "TEST-0009",
+    "make": "Doosan Infracore",
+    "model": "MODEL-9",
+    "description": "Test machine from Doosan Infracore"
+  },
+  {
+    "serial_number": "TEST-0010",
+    "make": "Bob-Cat Co",
+    "model": "MODEL-10",
+    "description": "Test machine from Bob-Cat Co"
+  }
+]
