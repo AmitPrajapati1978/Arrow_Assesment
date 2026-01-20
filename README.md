@@ -126,7 +126,23 @@ No inference based on category to avoid false positives.
   - `HOURS`
   - `METER READS`
 - Prevents false extraction from model numbers (e.g., `D6T`, `ZX350`).
+---
+### Handling Conflicting Cabin Indicators (EROPS vs OROPS)
 
+In a small number of records, the unstructured `description` field contains indicators for both `EROPS` and `OROPS`.
+
+To handle this deterministically and avoid ambiguity, a priority rule is applied:
+- If an enclosed indicator (`EROPS`, `ENCLOSED CAB`) is present, the cabin is classified as `EROPS`
+- Otherwise, if an open indicator (`OROPS`, `OPEN STATION`) is present, the cabin is classified as `OROPS`
+
+This decision is based on the assumption that enclosed configurations represent a more specific and restrictive setup, and descriptions may reference historical or optional configurations.
+
+The priority rule ensures:
+- A single, consistent output value per record
+- Deterministic behavior across runs
+- No reliance on probabilistic inference or per-record LLM calls
+
+This tradeoff favors consistency and scalability over attempting to infer intent from ambiguous free-text descriptions.
 ---
 
 ### Performance
